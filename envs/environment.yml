@@ -57,7 +57,7 @@ dependencies:
   - jpeg=9d=h36c2ea0_0
   - json-c=0.15=h98cffda_0
   - jupyter_client=6.1.7=py_0
-  - jupyter_core=4.7.1=py37h06a4308_0
+  - jupyter_coreRSEI=4.7.1=py37h06a4308_0
   - kealib=1.4.14=hcc255d8_2
   - kiwisolver=1.3.1=py37h2527ec5_1
   - krb5=1.17.2=h926e7f8_0
