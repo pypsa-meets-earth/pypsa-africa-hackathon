@@ -1,0 +1,5005 @@
+Overview OSM egypt_substations
+===========
+Nodes:                                3
+Ways:                               583
+Relations:                            1
+===========
+
+
+
+------Node--------
+
+Nr. 1 of egypt_substations
+Id: 3268909102
+Tags:
+{'name': 'West Fayoum Substation',
+ 'power': 'substation'}
+
+------Node--------
+
+Nr. 2 of egypt_substations
+Id: 5188682766
+Tags:
+{'building': 'yes',
+ 'location': 'outdoor',
+ 'note': 'natural gas '
+         'distribution cabinet',
+ 'power': 'substation',
+ 'substation': 'distribution'}
+
+------Node--------
+
+Nr. 3 of egypt_substations
+Id: 2296854952
+Tags:
+{'power': 'substation'}
+
+------Way--------
+
+Nr. 1 of egypt_substations
+Id: 218972674
+Tags:
+{'location': 'outdoor',
+ 'power': 'substation',
+ 'substation': 'transmission'}
+
+------Way--------
+
+Nr. 2 of egypt_substations
+Id: 219020313
+Tags:
+{'location': 'outdoor',
+ 'power': 'substation',
+ 'substation': 'transition',
+ 'voltage': '220000'}
+
+------Way--------
+
+Nr. 3 of egypt_substations
+Id: 499321070
+Tags:
+{'power': 'substation'}
+
+------Way--------
+
+Nr. 4 of egypt_substations
+Id: 181646620
+Tags:
+{'location': 'indoor',
+ 'name': 'محطة محولات امبابه',
+ 'name:ar': 'محطة محولات امبابه',
+ 'name:en': 'Imbaba Transformer '
+            'Station',
+ 'power': 'substation',
+ 'substation': 'distribution'}
+
+------Way--------
+
+Nr. 5 of egypt_substations
+Id: 123870405
+Tags:
+{'location': 'outdoor',
+ 'power': 'substation',
+ 'substation': 'distribution',
+ 'voltage': '66000'}
+
+------Way--------
+
+Nr. 6 of egypt_substations
+Id: 130068092
+Tags:
+{'location': 'outdoor',
+ 'power': 'substation',
+ 'substation': 'distribution',
+ 'voltage': '66000'}
+
+------Way--------
+
+Nr. 7 of egypt_substations
+Id: 499890419
+Tags:
+{'power': 'substation'}
+
+------Way--------
+
+Nr. 8 of egypt_substations
+Id: 263578733
+Tags:
+{'barrier': 'fence',
+ 'fixme': 'name,operator',
+ 'power': 'substation',
+ 'substation': 'transmission'}
+
+------Way--------
+
+Nr. 9 of egypt_substations
+Id: 502404020
+Tags:
+{'power': 'substation'}
+
+------Way--------
+
+Nr. 10 of egypt_substations
+Id: 129502970
+Tags:
+{'location': 'outdoor',
+ 'power': 'substation',
+ 'substation': 'distribution',
+ 'voltage': '66000'}
+
+------Way--------
+
+Nr. 11 of egypt_substations
+Id: 500449345
+Tags:
+{'power': 'substation'}
+
+------Way--------
+
+Nr. 12 of egypt_substations
+Id: 131247022
+Tags:
+{'location': 'outdoor',
+ 'power': 'substation',
+ 'substation': 'transmission',
+ 'voltage': '220000'}
+
+------Way--------
+
+Nr. 13 of egypt_substations
+Id: 501748196
+Tags:
+{'power': 'substation'}
+
+------Way--------
+
+Nr. 14 of egypt_substations
+Id: 499315876
+Tags:
+{'power': 'substation'}
+
+------Way--------
+
+Nr. 15 of egypt_substations
+Id: 502404012
+Tags:
+{'power': 'substation'}
+
+------Way--------
+
+Nr. 16 of egypt_substations
+Id: 426347971
+Tags:
+{'power': 'substation'}
+
+------Way--------
+
+Nr. 17 of egypt_substations
+Id: 113004375
+Tags:
+{'barrier': 'fence',
+ 'name:en': 'Kima',
+ 'power': 'substation',
+ 'substation': 'transmission',
+ 'voltage': '132000'}
+
+------Way--------
+
+Nr. 18 of egypt_substations
+Id: 102988954
+Tags:
+{'location': 'outdoor',
+ 'power': 'substation',
+ 'substation': 'transition',
+ 'voltage': '220000'}
+
+------Way--------
+
+Nr. 19 of egypt_substations
+Id: 659329763
+Tags:
+{'building': 'yes',
+ 'power': 'substation'}
+
+------Way--------
+
+Nr. 20 of egypt_substations
+Id: 128205604
+Tags:
+{'power': 'substation',
+ 'substation': 'transmission',
+ 'voltage': '500000'}
+
+------Way--------
+
+Nr. 21 of egypt_substations
+Id: 124542344
+Tags:
+{'location': 'outdoor',
+ 'power': 'substation',
+ 'substation': 'distribution',
+ 'voltage': '66000'}
+
+------Way--------
+
+Nr. 22 of egypt_substations
+Id: 499890443
+Tags:
+{'power': 'substation'}
+
+------Way--------
+
+Nr. 23 of egypt_substations
+Id: 781886353
+Tags:
+{'power': 'substation',
+ 'substation': 'minor_distribution'}
+
+------Way--------
+
+Nr. 24 of egypt_substations
+Id: 263296684
+Tags:
+{'barrier': 'fence',
+ 'fixme': 'name,operator',
+ 'power': 'substation',
+ 'substation': 'transmission'}
+
+------Way--------
+
+Nr. 25 of egypt_substations
+Id: 426347949
+Tags:
+{'power': 'substation'}
+
+------Way--------
+
+Nr. 26 of egypt_substations
+Id: 502358781
+Tags:
+{'power': 'substation'}
+
+------Way--------
+
+Nr. 27 of egypt_substations
+Id: 499321068
+Tags:
+{'power': 'substation'}
+
+------Way--------
+
+Nr. 28 of egypt_substations
+Id: 500185499
+Tags:
+{'power': 'substation'}
+
+------Way--------
+
+Nr. 29 of egypt_substations
+Id: 131605596
+Tags:
+{'location': 'indoor',
+ 'power': 'substation',
+ 'substation': 'distribution'}
+
+------Way--------
+
+Nr. 30 of egypt_substations
+Id: 499897443
+Tags:
+{'power': 'substation'}
+
+------Way--------
+
+Nr. 31 of egypt_substations
+Id: 426347958
+Tags:
+{'power': 'substation'}
+
+------Way--------
+
+Nr. 32 of egypt_substations
+Id: 210639360
+Tags:
+{'location': 'outdoor',
+ 'name': 'شركة البحيرة لتوزيع '
+         'الكهرباء',
+ 'name:ar': 'شركة البحيرة لتوزيع '
+            'الكهرباء',
+ 'power': 'substation',
+ 'substation': 'distribution',
+ 'voltage': '66000'}
+
+------Way--------
+
+Nr. 33 of egypt_substations
+Id: 501748242
+Tags:
+{'power': 'substation'}
+
+------Way--------
+
+Nr. 34 of egypt_substations
+Id: 103010930
+Tags:
+{'power': 'substation'}
+
+------Way--------
+
+Nr. 35 of egypt_substations
+Id: 426596391
+Tags:
+{'fixme': 'operator',
+ 'name:en': 'Mot',
+ 'power': 'substation',
+ 'substation': 'transmission',
+ 'voltage': '66000'}
+
+------Way--------
+
+Nr. 36 of egypt_substations
+Id: 502109038
+Tags:
+{'power': 'substation'}
+
+------Way--------
+
+Nr. 37 of egypt_substations
+Id: 500208170
+Tags:
+{'power': 'substation'}
+
+------Way--------
+
+Nr. 38 of egypt_substations
+Id: 500449334
+Tags:
+{'power': 'substation'}
+
+------Way--------
+
+Nr. 39 of egypt_substations
+Id: 501748215
+Tags:
+{'power': 'substation'}
+
+------Way--------
+
+Nr. 40 of egypt_substations
+Id: 502403986
+Tags:
+{'power': 'substation'}
+
+------Way--------
+
+Nr. 41 of egypt_substations
+Id: 117528642
+Tags:
+{'location': 'outdoor',
+ 'name:en': 'Malawi West',
+ 'power': 'substation',
+ 'substation': 'transmission',
+ 'voltage': '220000;66000'}
+
+------Way--------
+
+Nr. 42 of egypt_substations
+Id: 524099267
+Tags:
+{'power': 'substation'}
+
+------Way--------
+
+Nr. 43 of egypt_substations
+Id: 502404011
+Tags:
+{'power': 'substation'}
+
+------Way--------
+
+Nr. 44 of egypt_substations
+Id: 500449352
+Tags:
+{'power': 'substation'}
+
+------Way--------
+
+Nr. 45 of egypt_substations
+Id: 219224144
+Tags:
+{'location': 'outdoor',
+ 'name:en': 'El Seil',
+ 'power': 'substation',
+ 'substation': 'transmission',
+ 'voltage': '132000'}
+
+------Way--------
+
+Nr. 46 of egypt_substations
+Id: 210209256
+Tags:
+{'barrier': 'fence',
+ 'location': 'outdoor',
+ 'power': 'substation',
+ 'substation': 'transmission',
+ 'voltage': '500000'}
+
+------Way--------
+
+Nr. 47 of egypt_substations
+Id: 426347961
+Tags:
+{'power': 'substation'}
+
+------Way--------
+
+Nr. 48 of egypt_substations
+Id: 502403987
+Tags:
+{'power': 'substation'}
+
+------Way--------
+
+Nr. 49 of egypt_substations
+Id: 500208162
+Tags:
+{'power': 'substation'}
+
+------Way--------
+
+Nr. 50 of egypt_substations
+Id: 213211662
+Tags:
+{'location': 'outdoor',
+ 'name:en': 'Toshka 1',
+ 'power': 'substation',
+ 'substation': 'transmission',
+ 'voltage': '220000'}
+
+------Way--------
+
+Nr. 51 of egypt_substations
+Id: 426156928
+Tags:
+{'power': 'substation'}
+
+------Way--------
+
+Nr. 52 of egypt_substations
+Id: 105700127
+Tags:
+{'location': 'indoor',
+ 'power': 'substation',
+ 'substation': 'distribution',
+ 'voltage': '66000'}
+
+------Way--------
+
+Nr. 53 of egypt_substations
+Id: 739814905
+Tags:
+{'power': 'substation',
+ 'voltage': '220000'}
+
+------Way--------
+
+Nr. 54 of egypt_substations
+Id: 117328909
+Tags:
+{'power': 'substation'}
+
+------Way--------
+
+Nr. 55 of egypt_substations
+Id: 105569178
+Tags:
+{'power': 'substation',
+ 'voltage': '220000'}
+
+------Way--------
+
+Nr. 56 of egypt_substations
+Id: 427596549
+Tags:
+{'power': 'substation'}
+
+------Way--------
+
+Nr. 57 of egypt_substations
+Id: 426596387
+Tags:
+{'power': 'substation'}
+
+------Way--------
+
+Nr. 58 of egypt_substations
+Id: 264817143
+Tags:
+{'power': 'substation'}
+
+------Way--------
+
+Nr. 59 of egypt_substations
+Id: 500449348
+Tags:
+{'barrier': 'wall',
+ 'power': 'substation'}
+
+------Way--------
+
+Nr. 60 of egypt_substations
+Id: 500185495
+Tags:
+{'power': 'substation'}
+
+------Way--------
+
+Nr. 61 of egypt_substations
+Id: 426825797
+Tags:
+{'power': 'substation'}
+
+------Way--------
+
+Nr. 62 of egypt_substations
+Id: 120516781
+Tags:
+{'location': 'outdoor',
+ 'power': 'substation',
+ 'substation': 'transition'}
+
+------Way--------
+
+Nr. 63 of egypt_substations
+Id: 126280786
+Tags:
+{'location': 'outdoor',
+ 'power': 'substation',
+ 'substation': 'transmission',
+ 'voltage': '220000;66000'}
+
+------Way--------
+
+Nr. 64 of egypt_substations
+Id: 500208177
+Tags:
+{'building': 'yes',
+ 'power': 'substation'}
+
+------Way--------
+
+Nr. 65 of egypt_substations
+Id: 278685594
+Tags:
+{'location': 'outdoor',
+ 'power': 'substation',
+ 'substation': 'distribution'}
+
+------Way--------
+
+Nr. 66 of egypt_substations
+Id: 426156915
+Tags:
+{'power': 'substation'}
+
+------Way--------
+
+Nr. 67 of egypt_substations
+Id: 923817872
+Tags:
+{'power': 'substation',
+ 'voltage': '220000'}
+
+------Way--------
+
+Nr. 68 of egypt_substations
+Id: 502403985
+Tags:
+{'power': 'substation'}
+
+------Way--------
+
+Nr. 69 of egypt_substations
+Id: 499839326
+Tags:
+{'power': 'substation'}
+
+------Way--------
+
+Nr. 70 of egypt_substations
+Id: 130524402
+Tags:
+{'fixme': 'name,operator',
+ 'location': 'outdoor',
+ 'power': 'substation',
+ 'substation': 'transmission',
+ 'voltage': '220000'}
+
+------Way--------
+
+Nr. 71 of egypt_substations
+Id: 116612828
+Tags:
+{'location': 'outdoor',
+ 'name:en': 'Luxor',
+ 'power': 'substation',
+ 'substation': 'transmission',
+ 'voltage': '220000'}
+
+------Way--------
+
+Nr. 72 of egypt_substations
+Id: 426156912
+Tags:
+{'power': 'substation'}
+
+------Way--------
+
+Nr. 73 of egypt_substations
+Id: 502403988
+Tags:
+{'power': 'substation'}
+
+------Way--------
+
+Nr. 74 of egypt_substations
+Id: 128309643
+Tags:
+{'location': 'outdoor',
+ 'power': 'substation',
+ 'substation': 'distribution',
+ 'voltage': '66000'}
+
+------Way--------
+
+Nr. 75 of egypt_substations
+Id: 499318464
+Tags:
+{'power': 'substation'}
+
+------Way--------
+
+Nr. 76 of egypt_substations
+Id: 426974569
+Tags:
+{'power': 'substation'}
+
+------Way--------
+
+Nr. 77 of egypt_substations
+Id: 219232370
+Tags:
+{'fixme': 'name,operator',
+ 'location': 'outdoor',
+ 'power': 'substation',
+ 'substation': 'distribution',
+ 'voltage': '66000'}
+
+------Way--------
+
+Nr. 78 of egypt_substations
+Id: 218898508
+Tags:
+{'location': 'outdoor',
+ 'name:en': 'Baghdad',
+ 'power': 'substation',
+ 'substation': 'transmission',
+ 'voltage': '220000;66000'}
+
+------Way--------
+
+Nr. 79 of egypt_substations
+Id: 500449296
+Tags:
+{'power': 'substation'}
+
+------Way--------
+
+Nr. 80 of egypt_substations
+Id: 500449327
+Tags:
+{'power': 'substation'}
+
+------Way--------
+
+Nr. 81 of egypt_substations
+Id: 502109045
+Tags:
+{'power': 'substation'}
+
+------Way--------
+
+Nr. 82 of egypt_substations
+Id: 118310545
+Tags:
+{'location': 'outdoor',
+ 'power': 'substation',
+ 'substation': 'transmission',
+ 'voltage': '500000;220000'}
+
+------Way--------
+
+Nr. 83 of egypt_substations
+Id: 127394591
+Tags:
+{'location': 'outdoor',
+ 'power': 'substation',
+ 'substation': 'distribution',
+ 'voltage': '66000'}
+
+------Way--------
+
+Nr. 84 of egypt_substations
+Id: 263541774
+Tags:
+{'name:en': 'CEM Assuit',
+ 'power': 'substation'}
+
+------Way--------
+
+Nr. 85 of egypt_substations
+Id: 500449346
+Tags:
+{'power': 'substation'}
+
+------Way--------
+
+Nr. 86 of egypt_substations
+Id: 502403978
+Tags:
+{'power': 'substation'}
+
+------Way--------
+
+Nr. 87 of egypt_substations
+Id: 499315887
+Tags:
+{'power': 'substation'}
+
+------Way--------
+
+Nr. 88 of egypt_substations
+Id: 426347957
+Tags:
+{'power': 'substation'}
+
+------Way--------
+
+Nr. 89 of egypt_substations
+Id: 426596390
+Tags:
+{'barrier': 'wall',
+ 'name:en': 'Abou Tartour',
+ 'power': 'substation',
+ 'substation': 'transmission'}
+
+------Way--------
+
+Nr. 90 of egypt_substations
+Id: 93714538
+Tags:
+{'location': 'outdoor',
+ 'power': 'substation',
+ 'substation': 'transmission',
+ 'voltage': '220000'}
+
+------Way--------
+
+Nr. 91 of egypt_substations
+Id: 129435767
+Tags:
+{'power': 'substation',
+ 'substation': 'transmission'}
+
+------Way--------
+
+Nr. 92 of egypt_substations
+Id: 128203047
+Tags:
+{'location': 'outdoor',
+ 'power': 'substation',
+ 'substation': 'distribution',
+ 'voltage': '66000'}
+
+------Way--------
+
+Nr. 93 of egypt_substations
+Id: 501748248
+Tags:
+{'power': 'substation'}
+
+------Way--------
+
+Nr. 94 of egypt_substations
+Id: 124268288
+Tags:
+{'location': 'outdoor',
+ 'power': 'substation',
+ 'substation': 'distribution',
+ 'voltage': '66000'}
+
+------Way--------
+
+Nr. 95 of egypt_substations
+Id: 122155587
+Tags:
+{'location': 'outdoor',
+ 'power': 'substation',
+ 'substation': 'distribution',
+ 'voltage': '66000'}
+
+------Way--------
+
+Nr. 96 of egypt_substations
+Id: 427608567
+Tags:
+{'power': 'substation'}
+
+------Way--------
+
+Nr. 97 of egypt_substations
+Id: 500185497
+Tags:
+{'power': 'substation'}
+
+------Way--------
+
+Nr. 98 of egypt_substations
+Id: 105192649
+Tags:
+{'location': 'indoor',
+ 'power': 'substation',
+ 'substation': 'distribution',
+ 'voltage': '66000'}
+
+------Way--------
+
+Nr. 99 of egypt_substations
+Id: 524099261
+Tags:
+{'power': 'substation',
+ 'voltage': '500000;220000'}
+
+------Way--------
+
+Nr. 100 of egypt_substations
+Id: 501748199
+Tags:
+{'power': 'substation'}
+
+------Way--------
+
+Nr. 101 of egypt_substations
+Id: 126563952
+Tags:
+{'location': 'outdoor',
+ 'power': 'substation',
+ 'substation': 'distribution',
+ 'voltage': '66000'}
+
+------Way--------
+
+Nr. 102 of egypt_substations
+Id: 499890433
+Tags:
+{'power': 'substation'}
+
+------Way--------
+
+Nr. 103 of egypt_substations
+Id: 499839323
+Tags:
+{'power': 'substation'}
+
+------Way--------
+
+Nr. 104 of egypt_substations
+Id: 501748201
+Tags:
+{'power': 'substation'}
+
+------Way--------
+
+Nr. 105 of egypt_substations
+Id: 176719989
+Tags:
+{'barrier': 'wall',
+ 'location': 'outdoor',
+ 'power': 'substation',
+ 'substation': 'transmission',
+ 'voltage': '220000;66000'}
+
+------Way--------
+
+Nr. 106 of egypt_substations
+Id: 426825788
+Tags:
+{'power': 'substation'}
+
+------Way--------
+
+Nr. 107 of egypt_substations
+Id: 426596393
+Tags:
+{'barrier': 'wall',
+ 'location': 'outdoor',
+ 'power': 'substation',
+ 'substation': 'transition',
+ 'voltage': '66000'}
+
+------Way--------
+
+Nr. 108 of egypt_substations
+Id: 502109011
+Tags:
+{'power': 'substation'}
+
+------Way--------
+
+Nr. 109 of egypt_substations
+Id: 130060626
+Tags:
+{'location': 'outdoor',
+ 'power': 'substation',
+ 'substation': 'distribution',
+ 'voltage': '66000'}
+
+------Way--------
+
+Nr. 110 of egypt_substations
+Id: 30983365
+Tags:
+{'location': 'outdoor',
+ 'power': 'substation',
+ 'substation': 'transmission'}
+
+------Way--------
+
+Nr. 111 of egypt_substations
+Id: 98663507
+Tags:
+{'location': 'outdoor',
+ 'power': 'substation',
+ 'substation': 'transmission',
+ 'voltage': '220000;66000'}
+
+------Way--------
+
+Nr. 112 of egypt_substations
+Id: 501748192
+Tags:
+{'power': 'substation'}
+
+------Way--------
+
+Nr. 113 of egypt_substations
+Id: 426563791
+Tags:
+{'barrier': 'wall',
+ 'fixme': 'name,operator',
+ 'power': 'substation',
+ 'substation': 'distribution'}
+
+------Way--------
+
+Nr. 114 of egypt_substations
+Id: 500449388
+Tags:
+{'power': 'substation'}
+
+------Way--------
+
+Nr. 115 of egypt_substations
+Id: 499897441
+Tags:
+{'power': 'substation'}
+
+------Way--------
+
+Nr. 116 of egypt_substations
+Id: 426825784
+Tags:
+{'power': 'substation'}
+
+------Way--------
+
+Nr. 117 of egypt_substations
+Id: 217279280
+Tags:
+{'barrier': 'wall',
+ 'location': 'outdoor',
+ 'power': 'substation',
+ 'substation': 'distribution',
+ 'voltage': '66000'}
+
+------Way--------
+
+Nr. 118 of egypt_substations
+Id: 113987761
+Tags:
+{'barrier': 'wall',
+ 'fixme': 'name,operator',
+ 'power': 'substation',
+ 'substation': 'transmission',
+ 'voltage': '220000'}
+
+------Way--------
+
+Nr. 119 of egypt_substations
+Id: 426974566
+Tags:
+{'barrier': 'wall',
+ 'fixme': 'name,operator',
+ 'power': 'substation',
+ 'substation': 'transmission'}
+
+------Way--------
+
+Nr. 120 of egypt_substations
+Id: 524099301
+Tags:
+{'power': 'substation'}
+
+------Way--------
+
+Nr. 121 of egypt_substations
+Id: 500449337
+Tags:
+{'power': 'substation'}
+
+------Way--------
+
+Nr. 122 of egypt_substations
+Id: 427961353
+Tags:
+{'power': 'substation'}
+
+------Way--------
+
+Nr. 123 of egypt_substations
+Id: 502403947
+Tags:
+{'power': 'substation'}
+
+------Way--------
+
+Nr. 124 of egypt_substations
+Id: 120204568
+Tags:
+{'location': 'indoor',
+ 'power': 'substation',
+ 'substation': 'converter'}
+
+------Way--------
+
+Nr. 125 of egypt_substations
+Id: 499890418
+Tags:
+{'power': 'substation'}
+
+------Way--------
+
+Nr. 126 of egypt_substations
+Id: 127222463
+Tags:
+{'barrier': 'wall',
+ 'power': 'substation'}
+
+------Way--------
+
+Nr. 127 of egypt_substations
+Id: 499315873
+Tags:
+{'power': 'substation'}
+
+------Way--------
+
+Nr. 128 of egypt_substations
+Id: 97721460
+Tags:
+{'barrier': 'wall',
+ 'location': 'outdoor',
+ 'name:en': 'Taba Airport',
+ 'power': 'substation',
+ 'substation': 'transmission',
+ 'voltage': '220000;500000'}
+
+------Way--------
+
+Nr. 129 of egypt_substations
+Id: 501748207
+Tags:
+{'power': 'substation'}
+
+------Way--------
+
+Nr. 130 of egypt_substations
+Id: 103013457
+Tags:
+{'location': 'outdoor',
+ 'power': 'substation',
+ 'substation': 'distribution',
+ 'voltage': '66000'}
+
+------Way--------
+
+Nr. 131 of egypt_substations
+Id: 502109022
+Tags:
+{'power': 'substation'}
+
+------Way--------
+
+Nr. 132 of egypt_substations
+Id: 268133366
+Tags:
+{'barrier': 'wall',
+ 'power': 'substation'}
+
+------Way--------
+
+Nr. 133 of egypt_substations
+Id: 216227836
+Tags:
+{'power': 'substation',
+ 'substation': 'transmission',
+ 'voltage': '220000'}
+
+------Way--------
+
+Nr. 134 of egypt_substations
+Id: 426563844
+Tags:
+{'power': 'substation'}
+
+------Way--------
+
+Nr. 135 of egypt_substations
+Id: 99494604
+Tags:
+{'location': 'outdoor',
+ 'power': 'substation',
+ 'substation': 'distribution',
+ 'voltage': '220000'}
+
+------Way--------
+
+Nr. 136 of egypt_substations
+Id: 130063953
+Tags:
+{'location': 'outdoor',
+ 'power': 'substation',
+ 'substation': 'transmission',
+ 'voltage': '220000;66000'}
+
+------Way--------
+
+Nr. 137 of egypt_substations
+Id: 264817145
+Tags:
+{'name:en': 'Mallawi',
+ 'power': 'substation'}
+
+------Way--------
+
+Nr. 138 of egypt_substations
+Id: 210209262
+Tags:
+{'barrier': 'fence',
+ 'power': 'substation'}
+
+------Way--------
+
+Nr. 139 of egypt_substations
+Id: 427961354
+Tags:
+{'power': 'substation'}
+
+------Way--------
+
+Nr. 140 of egypt_substations
+Id: 122236187
+Tags:
+{'barrier': 'wall',
+ 'power': 'substation'}
+
+------Way--------
+
+Nr. 141 of egypt_substations
+Id: 502403991
+Tags:
+{'power': 'substation'}
+
+------Way--------
+
+Nr. 142 of egypt_substations
+Id: 218976990
+Tags:
+{'location': 'outdoor',
+ 'name:en': 'Sadat substation',
+ 'power': 'substation',
+ 'substation': 'transmission',
+ 'voltage': '220000'}
+
+------Way--------
+
+Nr. 143 of egypt_substations
+Id: 499106601
+Tags:
+{'power': 'substation'}
+
+------Way--------
+
+Nr. 144 of egypt_substations
+Id: 426596388
+Tags:
+{'power': 'substation'}
+
+------Way--------
+
+Nr. 145 of egypt_substations
+Id: 127390306
+Tags:
+{'location': 'outdoor',
+ 'power': 'substation',
+ 'substation': 'industrial',
+ 'voltage': '66000'}
+
+------Way--------
+
+Nr. 146 of egypt_substations
+Id: 200298801
+Tags:
+{'location': 'outdoor',
+ 'power': 'substation',
+ 'substation': 'distribution',
+ 'voltage': '66000'}
+
+------Way--------
+
+Nr. 147 of egypt_substations
+Id: 426596403
+Tags:
+{'power': 'substation'}
+
+------Way--------
+
+Nr. 148 of egypt_substations
+Id: 176505366
+Tags:
+{'location': 'indoor',
+ 'power': 'substation',
+ 'substation': 'distribution',
+ 'voltage': '66000'}
+
+------Way--------
+
+Nr. 149 of egypt_substations
+Id: 500208165
+Tags:
+{'power': 'substation'}
+
+------Way--------
+
+Nr. 150 of egypt_substations
+Id: 502109012
+Tags:
+{'power': 'substation'}
+
+------Way--------
+
+Nr. 151 of egypt_substations
+Id: 326699621
+Tags:
+{'location': 'outdoor',
+ 'power': 'substation',
+ 'substation': 'distribution',
+ 'voltage': '66000'}
+
+------Way--------
+
+Nr. 152 of egypt_substations
+Id: 264845175
+Tags:
+{'power': 'substation'}
+
+------Way--------
+
+Nr. 153 of egypt_substations
+Id: 499897450
+Tags:
+{'power': 'substation'}
+
+------Way--------
+
+Nr. 154 of egypt_substations
+Id: 500185486
+Tags:
+{'power': 'substation'}
+
+------Way--------
+
+Nr. 155 of egypt_substations
+Id: 176711018
+Tags:
+{'location': 'indoor',
+ 'power': 'substation',
+ 'substation': 'distribution',
+ 'voltage': '66000'}
+
+------Way--------
+
+Nr. 156 of egypt_substations
+Id: 263365083
+Tags:
+{'barrier': 'fence',
+ 'fixme': 'name,operator',
+ 'power': 'substation',
+ 'substation': 'transmission',
+ 'voltage': '220000;66000'}
+
+------Way--------
+
+Nr. 157 of egypt_substations
+Id: 127261542
+Tags:
+{'location': 'outdoor',
+ 'power': 'substation',
+ 'substation': 'transmission',
+ 'voltage': '220000;66000'}
+
+------Way--------
+
+Nr. 158 of egypt_substations
+Id: 426347962
+Tags:
+{'power': 'substation'}
+
+------Way--------
+
+Nr. 159 of egypt_substations
+Id: 127253884
+Tags:
+{'location': 'outdoor',
+ 'power': 'substation',
+ 'substation': 'distribution',
+ 'voltage': '66000'}
+
+------Way--------
+
+Nr. 160 of egypt_substations
+Id: 502109024
+Tags:
+{'power': 'substation'}
+
+------Way--------
+
+Nr. 161 of egypt_substations
+Id: 127195200
+Tags:
+{'location': 'outdoor',
+ 'power': 'substation',
+ 'substation': 'distribution',
+ 'voltage': '66000'}
+
+------Way--------
+
+Nr. 162 of egypt_substations
+Id: 524099273
+Tags:
+{'power': 'substation',
+ 'voltage': '500000'}
+
+------Way--------
+
+Nr. 163 of egypt_substations
+Id: 654933045
+Tags:
+{'building': 'yes',
+ 'power': 'substation'}
+
+------Way--------
+
+Nr. 164 of egypt_substations
+Id: 426596386
+Tags:
+{'power': 'substation'}
+
+------Way--------
+
+Nr. 165 of egypt_substations
+Id: 502109026
+Tags:
+{'power': 'substation'}
+
+------Way--------
+
+Nr. 166 of egypt_substations
+Id: 502403976
+Tags:
+{'power': 'substation'}
+
+------Way--------
+
+Nr. 167 of egypt_substations
+Id: 128129616
+Tags:
+{'location': 'outdoor',
+ 'power': 'substation',
+ 'substation': 'transmission',
+ 'voltage': '220000'}
+
+------Way--------
+
+Nr. 168 of egypt_substations
+Id: 105206738
+Tags:
+{'location': 'indoor',
+ 'power': 'substation',
+ 'substation': 'distribution',
+ 'voltage': '66000'}
+
+------Way--------
+
+Nr. 169 of egypt_substations
+Id: 341587587
+Tags:
+{'barrier': 'wall',
+ 'power': 'substation'}
+
+------Way--------
+
+Nr. 170 of egypt_substations
+Id: 216227835
+Tags:
+{'location': 'outdoor',
+ 'power': 'substation',
+ 'substation': 'distribution',
+ 'voltage': '66000'}
+
+------Way--------
+
+Nr. 171 of egypt_substations
+Id: 343022340
+Tags:
+{'barrier': 'fence',
+ 'location': 'outdoor',
+ 'power': 'substation',
+ 'substation': 'transmission',
+ 'voltage': '220000'}
+
+------Way--------
+
+Nr. 172 of egypt_substations
+Id: 122238112
+Tags:
+{'location': 'indoor',
+ 'power': 'substation',
+ 'substation': 'transmission',
+ 'voltage': '220000;66000'}
+
+------Way--------
+
+Nr. 173 of egypt_substations
+Id: 426596398
+Tags:
+{'fixme': 'name,operator',
+ 'power': 'substation',
+ 'substation': 'transmission'}
+
+------Way--------
+
+Nr. 174 of egypt_substations
+Id: 117381489
+Tags:
+{'location': 'outdoor',
+ 'name:en': 'Rifa',
+ 'power': 'substation',
+ 'substation': 'transmission',
+ 'voltage': '220000;66000'}
+
+------Way--------
+
+Nr. 175 of egypt_substations
+Id: 499900265
+Tags:
+{'power': 'substation'}
+
+------Way--------
+
+Nr. 176 of egypt_substations
+Id: 426825783
+Tags:
+{'power': 'substation'}
+
+------Way--------
+
+Nr. 177 of egypt_substations
+Id: 501748213
+Tags:
+{'power': 'substation'}
+
+------Way--------
+
+Nr. 178 of egypt_substations
+Id: 502404006
+Tags:
+{'power': 'substation'}
+
+------Way--------
+
+Nr. 179 of egypt_substations
+Id: 499890441
+Tags:
+{'power': 'substation'}
+
+------Way--------
+
+Nr. 180 of egypt_substations
+Id: 500185488
+Tags:
+{'power': 'substation'}
+
+------Way--------
+
+Nr. 181 of egypt_substations
+Id: 500208161
+Tags:
+{'power': 'substation'}
+
+------Way--------
+
+Nr. 182 of egypt_substations
+Id: 502403990
+Tags:
+{'power': 'substation'}
+
+------Way--------
+
+Nr. 183 of egypt_substations
+Id: 131247024
+Tags:
+{'location': 'outdoor',
+ 'power': 'substation',
+ 'substation': 'transmission',
+ 'voltage': '220000'}
+
+------Way--------
+
+Nr. 184 of egypt_substations
+Id: 214806695
+Tags:
+{'power': 'substation',
+ 'voltage': '220000'}
+
+------Way--------
+
+Nr. 185 of egypt_substations
+Id: 427790093
+Tags:
+{'power': 'substation'}
+
+------Way--------
+
+Nr. 186 of egypt_substations
+Id: 499321071
+Tags:
+{'power': 'substation'}
+
+------Way--------
+
+Nr. 187 of egypt_substations
+Id: 426825811
+Tags:
+{'power': 'substation'}
+
+------Way--------
+
+Nr. 188 of egypt_substations
+Id: 176710430
+Tags:
+{'location': 'outdoor',
+ 'power': 'substation',
+ 'substation': 'distribution',
+ 'voltage': '66000'}
+
+------Way--------
+
+Nr. 189 of egypt_substations
+Id: 105191630
+Tags:
+{'barrier': 'wall',
+ 'location': 'outdoor',
+ 'power': 'substation',
+ 'substation': 'transmission',
+ 'voltage': '220000;66000'}
+
+------Way--------
+
+Nr. 190 of egypt_substations
+Id: 426563851
+Tags:
+{'power': 'substation'}
+
+------Way--------
+
+Nr. 191 of egypt_substations
+Id: 426156918
+Tags:
+{'power': 'substation'}
+
+------Way--------
+
+Nr. 192 of egypt_substations
+Id: 426974568
+Tags:
+{'power': 'substation'}
+
+------Way--------
+
+Nr. 193 of egypt_substations
+Id: 119610875
+Tags:
+{'location': 'indoor',
+ 'power': 'substation',
+ 'substation': 'distribution',
+ 'voltage': '66000'}
+
+------Way--------
+
+Nr. 194 of egypt_substations
+Id: 214809518
+Tags:
+{'location': 'outdoor',
+ 'power': 'substation',
+ 'substation': 'distribution',
+ 'voltage': '220000'}
+
+------Way--------
+
+Nr. 195 of egypt_substations
+Id: 501748217
+Tags:
+{'power': 'substation'}
+
+------Way--------
+
+Nr. 196 of egypt_substations
+Id: 502109017
+Tags:
+{'power': 'substation'}
+
+------Way--------
+
+Nr. 197 of egypt_substations
+Id: 230637780
+Tags:
+{'access': 'private',
+ 'barrier': 'fence',
+ 'location': 'outdoor',
+ 'power': 'substation',
+ 'substation': 'transition',
+ 'voltage': '132000'}
+
+------Way--------
+
+Nr. 198 of egypt_substations
+Id: 500185474
+Tags:
+{'power': 'substation'}
+
+------Way--------
+
+Nr. 199 of egypt_substations
+Id: 502109016
+Tags:
+{'power': 'substation'}
+
+------Way--------
+
+Nr. 200 of egypt_substations
+Id: 129509652
+Tags:
+{'location': 'outdoor',
+ 'power': 'substation',
+ 'substation': 'distribution',
+ 'voltage': '66000'}
+
+------Way--------
+
+Nr. 201 of egypt_substations
+Id: 426185753
+Tags:
+{'power': 'substation'}
+
+------Way--------
+
+Nr. 202 of egypt_substations
+Id: 923817887
+Tags:
+{'power': 'substation',
+ 'voltage': '220000'}
+
+------Way--------
+
+Nr. 203 of egypt_substations
+Id: 807413256
+Tags:
+{'power': 'substation'}
+
+------Way--------
+
+Nr. 204 of egypt_substations
+Id: 127237828
+Tags:
+{'location': 'outdoor',
+ 'power': 'substation',
+ 'substation': 'distribution',
+ 'voltage': '66000'}
+
+------Way--------
+
+Nr. 205 of egypt_substations
+Id: 127237826
+Tags:
+{'location': 'indoor',
+ 'power': 'substation'}
+
+------Way--------
+
+Nr. 206 of egypt_substations
+Id: 119907869
+Tags:
+{'location': 'outdoor',
+ 'power': 'substation',
+ 'substation': 'industrial',
+ 'voltage': '220000'}
+
+------Way--------
+
+Nr. 207 of egypt_substations
+Id: 426825819
+Tags:
+{'name:en': 'FerroSilicon',
+ 'power': 'substation'}
+
+------Way--------
+
+Nr. 208 of egypt_substations
+Id: 426596395
+Tags:
+{'fixme': 'name,operator',
+ 'power': 'substation',
+ 'substation': 'transmission'}
+
+------Way--------
+
+Nr. 209 of egypt_substations
+Id: 130225438
+Tags:
+{'barrier': 'wall',
+ 'location': 'outdoor',
+ 'power': 'substation',
+ 'substation': 'distribution',
+ 'voltage': '66000'}
+
+------Way--------
+
+Nr. 210 of egypt_substations
+Id: 426825794
+Tags:
+{'power': 'substation'}
+
+------Way--------
+
+Nr. 211 of egypt_substations
+Id: 128182735
+Tags:
+{'location': 'outdoor',
+ 'power': 'substation',
+ 'substation': 'transmission',
+ 'voltage': '220000'}
+
+------Way--------
+
+Nr. 212 of egypt_substations
+Id: 426825818
+Tags:
+{'power': 'substation'}
+
+------Way--------
+
+Nr. 213 of egypt_substations
+Id: 426563845
+Tags:
+{'barrier': 'wall',
+ 'fixme': 'name,operator',
+ 'power': 'substation',
+ 'substation': 'distribution'}
+
+------Way--------
+
+Nr. 214 of egypt_substations
+Id: 426596405
+Tags:
+{'fixme': 'name,operator',
+ 'power': 'substation',
+ 'substation': 'transmission'}
+
+------Way--------
+
+Nr. 215 of egypt_substations
+Id: 103010149
+Tags:
+{'name:en': 'Abu Zaabal',
+ 'power': 'substation',
+ 'substation': 'transmission',
+ 'voltage': '500000'}
+
+------Way--------
+
+Nr. 216 of egypt_substations
+Id: 426998273
+Tags:
+{'name:en': 'Aswan Dam 615',
+ 'power': 'substation',
+ 'substation': 'transmission'}
+
+------Way--------
+
+Nr. 217 of egypt_substations
+Id: 426825817
+Tags:
+{'power': 'substation'}
+
+------Way--------
+
+Nr. 218 of egypt_substations
+Id: 499890414
+Tags:
+{'power': 'substation'}
+
+------Way--------
+
+Nr. 219 of egypt_substations
+Id: 117216112
+Tags:
+{'location': 'outdoor',
+ 'power': 'substation',
+ 'substation': 'distribution'}
+
+------Way--------
+
+Nr. 220 of egypt_substations
+Id: 113003935
+Tags:
+{'barrier': 'wall',
+ 'power': 'substation',
+ 'substation': 'distribution'}
+
+------Way--------
+
+Nr. 221 of egypt_substations
+Id: 179179261
+Tags:
+{'fixme': 'name,operator',
+ 'location': 'outdoor',
+ 'power': 'substation',
+ 'substation': 'transmission',
+ 'voltage': '66000'}
+
+------Way--------
+
+Nr. 222 of egypt_substations
+Id: 117342821
+Tags:
+{'location': 'outdoor',
+ 'name:en': 'Tema',
+ 'power': 'substation',
+ 'substation': 'transmission',
+ 'voltage': '220000'}
+
+------Way--------
+
+Nr. 223 of egypt_substations
+Id: 419686238
+Tags:
+{'power': 'substation'}
+
+------Way--------
+
+Nr. 224 of egypt_substations
+Id: 118345956
+Tags:
+{'location': 'outdoor',
+ 'power': 'substation',
+ 'source': 'Bing',
+ 'substation': 'transmission',
+ 'voltage': '220000'}
+
+------Way--------
+
+Nr. 225 of egypt_substations
+Id: 130572645
+Tags:
+{'barrier': 'wall',
+ 'name': 'Zafarana 7',
+ 'power': 'substation'}
+
+------Way--------
+
+Nr. 226 of egypt_substations
+Id: 500185502
+Tags:
+{'power': 'substation'}
+
+------Way--------
+
+Nr. 227 of egypt_substations
+Id: 426347965
+Tags:
+{'power': 'substation'}
+
+------Way--------
+
+Nr. 228 of egypt_substations
+Id: 123225206
+Tags:
+{'location': 'outdoor',
+ 'power': 'substation',
+ 'substation': 'distribution',
+ 'voltage': '66000'}
+
+------Way--------
+
+Nr. 229 of egypt_substations
+Id: 502403979
+Tags:
+{'power': 'substation'}
+
+------Way--------
+
+Nr. 230 of egypt_substations
+Id: 500449339
+Tags:
+{'barrier': 'wall',
+ 'power': 'substation'}
+
+------Way--------
+
+Nr. 231 of egypt_substations
+Id: 499890417
+Tags:
+{'power': 'substation'}
+
+------Way--------
+
+Nr. 232 of egypt_substations
+Id: 502403992
+Tags:
+{'power': 'substation'}
+
+------Way--------
+
+Nr. 233 of egypt_substations
+Id: 500208164
+Tags:
+{'power': 'substation'}
+
+------Way--------
+
+Nr. 234 of egypt_substations
+Id: 426347960
+Tags:
+{'operator': 'The Middle Egypt '
+             'Company for '
+             'Distributing '
+             'Electricity',
+ 'power': 'substation',
+ 'substation': 'industrial',
+ 'wikidata': 'Q174814',
+ 'wikipedia': 'en:Electrical '
+              'substation'}
+
+------Way--------
+
+Nr. 235 of egypt_substations
+Id: 98663495
+Tags:
+{'location': 'outdoor',
+ 'name:en': 'Salamut',
+ 'power': 'substation',
+ 'substation': 'transmission',
+ 'voltage': '500000'}
+
+------Way--------
+
+Nr. 236 of egypt_substations
+Id: 126503845
+Tags:
+{'location': 'outdoor',
+ 'name': 'Matrouh',
+ 'power': 'substation',
+ 'substation': 'transmission',
+ 'voltage': '220000;132000'}
+
+------Way--------
+
+Nr. 237 of egypt_substations
+Id: 499106599
+Tags:
+{'power': 'substation'}
+
+------Way--------
+
+Nr. 238 of egypt_substations
+Id: 499315877
+Tags:
+{'power': 'substation'}
+
+------Way--------
+
+Nr. 239 of egypt_substations
+Id: 179179264
+Tags:
+{'barrier': 'fence',
+ 'fixme': 'name,operator',
+ 'location': 'outdoor',
+ 'power': 'substation',
+ 'substation': 'distribution',
+ 'voltage': '66000'}
+
+------Way--------
+
+Nr. 240 of egypt_substations
+Id: 128116950
+Tags:
+{'location': 'outdoor',
+ 'power': 'substation',
+ 'substation': 'distribution',
+ 'voltage': '66000'}
+
+------Way--------
+
+Nr. 241 of egypt_substations
+Id: 502404009
+Tags:
+{'power': 'substation'}
+
+------Way--------
+
+Nr. 242 of egypt_substations
+Id: 499315883
+Tags:
+{'barrier': 'wall',
+ 'power': 'substation'}
+
+------Way--------
+
+Nr. 243 of egypt_substations
+Id: 499106581
+Tags:
+{'power': 'substation'}
+
+------Way--------
+
+Nr. 244 of egypt_substations
+Id: 502109033
+Tags:
+{'power': 'substation'}
+
+------Way--------
+
+Nr. 245 of egypt_substations
+Id: 739814901
+Tags:
+{'power': 'substation',
+ 'voltage': '220000'}
+
+------Way--------
+
+Nr. 246 of egypt_substations
+Id: 219687981
+Tags:
+{'location': 'indoor',
+ 'power': 'substation',
+ 'substation': 'transmission',
+ 'voltage': '220000'}
+
+------Way--------
+
+Nr. 247 of egypt_substations
+Id: 499106595
+Tags:
+{'power': 'substation'}
+
+------Way--------
+
+Nr. 248 of egypt_substations
+Id: 219583075
+Tags:
+{'location': 'outdoor',
+ 'name:en': 'Idfo',
+ 'power': 'substation',
+ 'substation': 'transmission',
+ 'voltage': '132000'}
+
+------Way--------
+
+Nr. 249 of egypt_substations
+Id: 102988963
+Tags:
+{'location': 'outdoor',
+ 'power': 'substation',
+ 'substation': 'transition',
+ 'voltage': '220000'}
+
+------Way--------
+
+Nr. 250 of egypt_substations
+Id: 219716698
+Tags:
+{'location': 'outdoor',
+ 'power': 'substation',
+ 'substation': 'transition',
+ 'voltage': '220000'}
+
+------Way--------
+
+Nr. 251 of egypt_substations
+Id: 426156914
+Tags:
+{'power': 'substation'}
+
+------Way--------
+
+Nr. 252 of egypt_substations
+Id: 426825796
+Tags:
+{'power': 'substation'}
+
+------Way--------
+
+Nr. 253 of egypt_substations
+Id: 500449353
+Tags:
+{'power': 'substation'}
+
+------Way--------
+
+Nr. 254 of egypt_substations
+Id: 218893323
+Tags:
+{'location': 'outdoor',
+ 'name': 'Cairo West Substation',
+ 'name:en': 'Cairo West '
+            'Substation',
+ 'power': 'substation',
+ 'substation': 'transmission',
+ 'voltage': '500000;220000'}
+
+------Way--------
+
+Nr. 255 of egypt_substations
+Id: 501748214
+Tags:
+{'power': 'substation'}
+
+------Way--------
+
+Nr. 256 of egypt_substations
+Id: 343046190
+Tags:
+{'location': 'outdoor',
+ 'power': 'substation',
+ 'substation': 'distribution',
+ 'voltage': '66000'}
+
+------Way--------
+
+Nr. 257 of egypt_substations
+Id: 130436365
+Tags:
+{'location': 'outdoor',
+ 'power': 'substation',
+ 'substation': 'transmission',
+ 'voltage': '66000'}
+
+------Way--------
+
+Nr. 258 of egypt_substations
+Id: 502403983
+Tags:
+{'power': 'substation'}
+
+------Way--------
+
+Nr. 259 of egypt_substations
+Id: 739814904
+Tags:
+{'power': 'substation',
+ 'voltage': '220000'}
+
+------Way--------
+
+Nr. 260 of egypt_substations
+Id: 219754954
+Tags:
+{'location': 'outdoor',
+ 'power': 'substation',
+ 'substation': 'transmission',
+ 'voltage': '66000'}
+
+------Way--------
+
+Nr. 261 of egypt_substations
+Id: 263541777
+Tags:
+{'name:en': 'CEM Assuit',
+ 'power': 'substation'}
+
+------Way--------
+
+Nr. 262 of egypt_substations
+Id: 93575307
+Tags:
+{'fixme': 'name,operator',
+ 'location': 'outdoor',
+ 'power': 'substation',
+ 'substation': 'distribution'}
+
+------Way--------
+
+Nr. 263 of egypt_substations
+Id: 218986740
+Tags:
+{'location': 'outdoor',
+ 'power': 'substation',
+ 'substation': 'distribution'}
+
+------Way--------
+
+Nr. 264 of egypt_substations
+Id: 426998278
+Tags:
+{'barrier': 'fence',
+ 'name:en': 'High Dam 2100',
+ 'power': 'substation',
+ 'substation': 'transmission'}
+
+------Way--------
+
+Nr. 265 of egypt_substations
+Id: 242217133
+Tags:
+{'location': 'outdoor',
+ 'power': 'substation',
+ 'substation': 'distribution',
+ 'voltage': '66000'}
+
+------Way--------
+
+Nr. 266 of egypt_substations
+Id: 426825786
+Tags:
+{'power': 'substation'}
+
+------Way--------
+
+Nr. 267 of egypt_substations
+Id: 502404019
+Tags:
+{'power': 'substation'}
+
+------Way--------
+
+Nr. 268 of egypt_substations
+Id: 219038763
+Tags:
+{'power': 'substation'}
+
+------Way--------
+
+Nr. 269 of egypt_substations
+Id: 426110747
+Tags:
+{'power': 'substation'}
+
+------Way--------
+
+Nr. 270 of egypt_substations
+Id: 93650324
+Tags:
+{'name:en': 'Bir El Abd',
+ 'power': 'substation',
+ 'substation': 'transmission',
+ 'voltage': '220000'}
+
+------Way--------
+
+Nr. 271 of egypt_substations
+Id: 426825789
+Tags:
+{'power': 'substation'}
+
+------Way--------
+
+Nr. 272 of egypt_substations
+Id: 263488282
+Tags:
+{'location': 'indoor',
+ 'name:en': 'CEM Minya',
+ 'power': 'substation',
+ 'substation': 'distribution',
+ 'voltage': '132000'}
+
+------Way--------
+
+Nr. 273 of egypt_substations
+Id: 502109034
+Tags:
+{'power': 'substation'}
+
+------Way--------
+
+Nr. 274 of egypt_substations
+Id: 426185755
+Tags:
+{'power': 'substation'}
+
+------Way--------
+
+Nr. 275 of egypt_substations
+Id: 499106592
+Tags:
+{'power': 'substation'}
+
+------Way--------
+
+Nr. 276 of egypt_substations
+Id: 426596401
+Tags:
+{'barrier': 'wall',
+ 'fixme': 'name,operator',
+ 'power': 'substation',
+ 'substation': 'transmission'}
+
+------Way--------
+
+Nr. 277 of egypt_substations
+Id: 112984533
+Tags:
+{'barrier': 'fence',
+ 'fixme': 'name,operator',
+ 'location': 'outdoor',
+ 'power': 'substation',
+ 'substation': 'transition',
+ 'voltage': '132000'}
+
+------Way--------
+
+Nr. 278 of egypt_substations
+Id: 500208171
+Tags:
+{'barrier': 'wall',
+ 'power': 'substation'}
+
+------Way--------
+
+Nr. 279 of egypt_substations
+Id: 501748197
+Tags:
+{'power': 'substation'}
+
+------Way--------
+
+Nr. 280 of egypt_substations
+Id: 501748212
+Tags:
+{'power': 'substation'}
+
+------Way--------
+
+Nr. 281 of egypt_substations
+Id: 129498953
+Tags:
+{'location': 'outdoor',
+ 'power': 'substation',
+ 'substation': 'distribution',
+ 'voltage': '66000'}
+
+------Way--------
+
+Nr. 282 of egypt_substations
+Id: 499890416
+Tags:
+{'power': 'substation'}
+
+------Way--------
+
+Nr. 283 of egypt_substations
+Id: 123486842
+Tags:
+{'location': 'outdoor',
+ 'power': 'substation',
+ 'substation': 'distribution',
+ 'voltage': '66000'}
+
+------Way--------
+
+Nr. 284 of egypt_substations
+Id: 499106605
+Tags:
+{'power': 'substation'}
+
+------Way--------
+
+Nr. 285 of egypt_substations
+Id: 97721447
+Tags:
+{'barrier': 'wall',
+ 'location': 'outdoor',
+ 'power': 'substation',
+ 'source': 'Bing',
+ 'substation': 'transmission',
+ 'voltage': '220000;66000'}
+
+------Way--------
+
+Nr. 286 of egypt_substations
+Id: 122234451
+Tags:
+{'barrier': 'wall',
+ 'location': 'outdoor',
+ 'power': 'substation',
+ 'substation': 'distribution',
+ 'voltage': '66000'}
+
+------Way--------
+
+Nr. 287 of egypt_substations
+Id: 119584035
+Tags:
+{'location': 'outdoor',
+ 'power': 'substation',
+ 'substation': 'transmission',
+ 'voltage': '220000;66000'}
+
+------Way--------
+
+Nr. 288 of egypt_substations
+Id: 359167344
+Tags:
+{'barrier': 'fence',
+ 'power': 'substation',
+ 'voltage': '66000'}
+
+------Way--------
+
+Nr. 289 of egypt_substations
+Id: 92970603
+Tags:
+{'location': 'indoor',
+ 'power': 'substation',
+ 'substation': 'distribution',
+ 'voltage': '66000'}
+
+------Way--------
+
+Nr. 290 of egypt_substations
+Id: 102997399
+Tags:
+{'location': 'outdoor',
+ 'power': 'substation',
+ 'substation': 'distribution',
+ 'voltage': '66000'}
+
+------Way--------
+
+Nr. 291 of egypt_substations
+Id: 127212985
+Tags:
+{'location': 'outdoor',
+ 'power': 'substation',
+ 'substation': 'distribution',
+ 'voltage': '66000'}
+
+------Way--------
+
+Nr. 292 of egypt_substations
+Id: 499106604
+Tags:
+{'power': 'substation'}
+
+------Way--------
+
+Nr. 293 of egypt_substations
+Id: 127388749
+Tags:
+{'location': 'outdoor',
+ 'power': 'substation',
+ 'substation': 'distribution',
+ 'voltage': '66000'}
+
+------Way--------
+
+Nr. 294 of egypt_substations
+Id: 119907603
+Tags:
+{'location': 'outdoor',
+ 'power': 'substation',
+ 'substation': 'industrial',
+ 'voltage': '220000'}
+
+------Way--------
+
+Nr. 295 of egypt_substations
+Id: 131236226
+Tags:
+{'location': 'outdoor',
+ 'power': 'substation',
+ 'substation': 'industrial'}
+
+------Way--------
+
+Nr. 296 of egypt_substations
+Id: 127231765
+Tags:
+{'location': 'outdoor',
+ 'power': 'substation',
+ 'substation': 'distribution',
+ 'voltage': '66000'}
+
+------Way--------
+
+Nr. 297 of egypt_substations
+Id: 97852047
+Tags:
+{'location': 'outdoor',
+ 'power': 'substation',
+ 'substation': 'transmission',
+ 'voltage': '220000'}
+
+------Way--------
+
+Nr. 298 of egypt_substations
+Id: 426596402
+Tags:
+{'power': 'substation'}
+
+------Way--------
+
+Nr. 299 of egypt_substations
+Id: 218975834
+Tags:
+{'location': 'outdoor',
+ 'power': 'substation',
+ 'substation': 'transmission',
+ 'voltage': '500000;220000'}
+
+------Way--------
+
+Nr. 300 of egypt_substations
+Id: 218983235
+Tags:
+{'power': 'substation',
+ 'voltage': '220000'}
+
+------Way--------
+
+Nr. 301 of egypt_substations
+Id: 119909663
+Tags:
+{'location': 'outdoor',
+ 'power': 'substation',
+ 'substation': 'industrial',
+ 'voltage': '220000'}
+
+------Way--------
+
+Nr. 302 of egypt_substations
+Id: 103015031
+Tags:
+{'location': 'outdoor',
+ 'power': 'substation',
+ 'substation': 'transmission',
+ 'voltage': '66000'}
+
+------Way--------
+
+Nr. 303 of egypt_substations
+Id: 426347959
+Tags:
+{'power': 'substation'}
+
+------Way--------
+
+Nr. 304 of egypt_substations
+Id: 502403984
+Tags:
+{'power': 'substation'}
+
+------Way--------
+
+Nr. 305 of egypt_substations
+Id: 426347955
+Tags:
+{'power': 'substation'}
+
+------Way--------
+
+Nr. 306 of egypt_substations
+Id: 127255915
+Tags:
+{'location': 'outdoor',
+ 'power': 'substation',
+ 'substation': 'transmission',
+ 'voltage': '220000;66000'}
+
+------Way--------
+
+Nr. 307 of egypt_substations
+Id: 130229777
+Tags:
+{'power': 'substation',
+ 'substation': 'transmission',
+ 'voltage': '220000;66000'}
+
+------Way--------
+
+Nr. 308 of egypt_substations
+Id: 176720022
+Tags:
+{'barrier': 'wall',
+ 'location': 'outdoor',
+ 'power': 'substation',
+ 'substation': 'distribution',
+ 'voltage': '66000'}
+
+------Way--------
+
+Nr. 309 of egypt_substations
+Id: 426825808
+Tags:
+{'power': 'substation'}
+
+------Way--------
+
+Nr. 310 of egypt_substations
+Id: 126550753
+Tags:
+{'location': 'indoor',
+ 'power': 'substation',
+ 'substation': 'distribution',
+ 'voltage': '66000'}
+
+------Way--------
+
+Nr. 311 of egypt_substations
+Id: 426825787
+Tags:
+{'power': 'substation'}
+
+------Way--------
+
+Nr. 312 of egypt_substations
+Id: 819209179
+Tags:
+{'power': 'substation'}
+
+------Way--------
+
+Nr. 313 of egypt_substations
+Id: 501748216
+Tags:
+{'power': 'substation'}
+
+------Way--------
+
+Nr. 314 of egypt_substations
+Id: 122236188
+Tags:
+{'location': 'outdoor',
+ 'power': 'substation',
+ 'substation': 'distribution',
+ 'voltage': '66000'}
+
+------Way--------
+
+Nr. 315 of egypt_substations
+Id: 98390022
+Tags:
+{'barrier': 'wall',
+ 'location': 'outdoor',
+ 'power': 'substation',
+ 'substation': 'transmission',
+ 'voltage': '220000;66000'}
+
+------Way--------
+
+Nr. 316 of egypt_substations
+Id: 219005249
+Tags:
+{'location': 'outdoor',
+ 'power': 'substation',
+ 'substation': 'transmission',
+ 'voltage': '220000'}
+
+------Way--------
+
+Nr. 317 of egypt_substations
+Id: 99806375
+Tags:
+{'fixme': 'name,operator',
+ 'location': 'outdoor',
+ 'power': 'substation',
+ 'substation': 'distribution',
+ 'voltage': '66000'}
+
+------Way--------
+
+Nr. 318 of egypt_substations
+Id: 500185500
+Tags:
+{'power': 'substation'}
+
+------Way--------
+
+Nr. 319 of egypt_substations
+Id: 128125479
+Tags:
+{'location': 'outdoor',
+ 'power': 'substation',
+ 'substation': 'transmission',
+ 'voltage': '220000'}
+
+------Way--------
+
+Nr. 320 of egypt_substations
+Id: 219771190
+Tags:
+{'power': 'substation'}
+
+------Way--------
+
+Nr. 321 of egypt_substations
+Id: 500208163
+Tags:
+{'power': 'substation'}
+
+------Way--------
+
+Nr. 322 of egypt_substations
+Id: 502109028
+Tags:
+{'power': 'substation'}
+
+------Way--------
+
+Nr. 323 of egypt_substations
+Id: 426825830
+Tags:
+{'location': 'outdoor',
+ 'name:en': 'Luxor East',
+ 'power': 'substation',
+ 'substation': 'transmission',
+ 'voltage': '220000'}
+
+------Way--------
+
+Nr. 324 of egypt_substations
+Id: 426825790
+Tags:
+{'power': 'substation'}
+
+------Way--------
+
+Nr. 325 of egypt_substations
+Id: 500208168
+Tags:
+{'power': 'substation'}
+
+------Way--------
+
+Nr. 326 of egypt_substations
+Id: 102994029
+Tags:
+{'location': 'indoor',
+ 'power': 'substation',
+ 'substation': 'distribution',
+ 'voltage': '66000'}
+
+------Way--------
+
+Nr. 327 of egypt_substations
+Id: 176723500
+Tags:
+{'location': 'outdoor',
+ 'power': 'substation',
+ 'substation': 'distribution',
+ 'voltage': '66000'}
+
+------Way--------
+
+Nr. 328 of egypt_substations
+Id: 426825812
+Tags:
+{'power': 'substation'}
+
+------Way--------
+
+Nr. 329 of egypt_substations
+Id: 123223445
+Tags:
+{'location': 'outdoor',
+ 'power': 'substation',
+ 'substation': 'transmission',
+ 'voltage': '220000;66000'}
+
+------Way--------
+
+Nr. 330 of egypt_substations
+Id: 499890460
+Tags:
+{'power': 'substation'}
+
+------Way--------
+
+Nr. 331 of egypt_substations
+Id: 92878367
+Tags:
+{'location': 'outdoor',
+ 'power': 'substation',
+ 'substation': 'transmission',
+ 'voltage': '220000'}
+
+------Way--------
+
+Nr. 332 of egypt_substations
+Id: 123466581
+Tags:
+{'location': 'outdoor',
+ 'power': 'substation',
+ 'substation': 'transmission',
+ 'voltage': '220000;66000'}
+
+------Way--------
+
+Nr. 333 of egypt_substations
+Id: 128311514
+Tags:
+{'location': 'outdoor',
+ 'power': 'substation',
+ 'substation': 'distribution',
+ 'voltage': '66000'}
+
+------Way--------
+
+Nr. 334 of egypt_substations
+Id: 117508525
+Tags:
+{'power': 'substation',
+ 'voltage': '220000'}
+
+------Way--------
+
+Nr. 335 of egypt_substations
+Id: 500185476
+Tags:
+{'power': 'substation'}
+
+------Way--------
+
+Nr. 336 of egypt_substations
+Id: 103032711
+Tags:
+{'location': 'outdoor',
+ 'power': 'substation',
+ 'substation': 'distribution',
+ 'voltage': '66000'}
+
+------Way--------
+
+Nr. 337 of egypt_substations
+Id: 502109014
+Tags:
+{'power': 'substation'}
+
+------Way--------
+
+Nr. 338 of egypt_substations
+Id: 502403975
+Tags:
+{'power': 'substation'}
+
+------Way--------
+
+Nr. 339 of egypt_substations
+Id: 427608568
+Tags:
+{'power': 'substation'}
+
+------Way--------
+
+Nr. 340 of egypt_substations
+Id: 116604544
+Tags:
+{'location': 'outdoor',
+ 'power': 'substation',
+ 'substation': 'distribution',
+ 'voltage': '66000'}
+
+------Way--------
+
+Nr. 341 of egypt_substations
+Id: 216241870
+Tags:
+{'barrier': 'wall',
+ 'location': 'outdoor',
+ 'power': 'substation',
+ 'substation': 'transition',
+ 'voltage': '66000'}
+
+------Way--------
+
+Nr. 342 of egypt_substations
+Id: 499897448
+Tags:
+{'power': 'substation'}
+
+------Way--------
+
+Nr. 343 of egypt_substations
+Id: 128435977
+Tags:
+{'location': 'outdoor',
+ 'power': 'substation',
+ 'substation': 'distribution',
+ 'voltage': '66000'}
+
+------Way--------
+
+Nr. 344 of egypt_substations
+Id: 502403989
+Tags:
+{'power': 'substation'}
+
+------Way--------
+
+Nr. 345 of egypt_substations
+Id: 502109015
+Tags:
+{'power': 'substation'}
+
+------Way--------
+
+Nr. 346 of egypt_substations
+Id: 130524401
+Tags:
+{'fixme': 'name,operator',
+ 'location': 'outdoor',
+ 'power': 'substation',
+ 'substation': 'transmission'}
+
+------Way--------
+
+Nr. 347 of egypt_substations
+Id: 263292020
+Tags:
+{'barrier': 'fence',
+ 'fixme': 'name,operator',
+ 'power': 'substation',
+ 'substation': 'transmission'}
+
+------Way--------
+
+Nr. 348 of egypt_substations
+Id: 427608566
+Tags:
+{'power': 'substation'}
+
+------Way--------
+
+Nr. 349 of egypt_substations
+Id: 128405652
+Tags:
+{'location': 'outdoor',
+ 'power': 'substation',
+ 'substation': 'distribution',
+ 'voltage': '66000'}
+
+------Way--------
+
+Nr. 350 of egypt_substations
+Id: 102788377
+Tags:
+{'location': 'outdoor',
+ 'name:en': 'Kom Ombo',
+ 'power': 'substation',
+ 'substation': 'transmission',
+ 'voltage': '132000;66000'}
+
+------Way--------
+
+Nr. 351 of egypt_substations
+Id: 126200917
+Tags:
+{'location': 'indoor',
+ 'power': 'substation',
+ 'substation': 'transmission',
+ 'voltage': '220000'}
+
+------Way--------
+
+Nr. 352 of egypt_substations
+Id: 130226986
+Tags:
+{'barrier': 'wall',
+ 'location': 'outdoor',
+ 'power': 'substation',
+ 'substation': 'distribution',
+ 'voltage': '66000'}
+
+------Way--------
+
+Nr. 353 of egypt_substations
+Id: 500185482
+Tags:
+{'power': 'substation'}
+
+------Way--------
+
+Nr. 354 of egypt_substations
+Id: 426596397
+Tags:
+{'barrier': 'wall',
+ 'fixme': 'name,operator',
+ 'power': 'substation',
+ 'substation': 'transmission'}
+
+------Way--------
+
+Nr. 355 of egypt_substations
+Id: 502404010
+Tags:
+{'power': 'substation'}
+
+------Way--------
+
+Nr. 356 of egypt_substations
+Id: 278702753
+Tags:
+{'location': 'outdoor',
+ 'power': 'substation',
+ 'substation': 'distribution'}
+
+------Way--------
+
+Nr. 357 of egypt_substations
+Id: 124781341
+Tags:
+{'location': 'outdoor',
+ 'power': 'substation',
+ 'substation': 'distribution',
+ 'voltage': '66000'}
+
+------Way--------
+
+Nr. 358 of egypt_substations
+Id: 499318463
+Tags:
+{'power': 'substation'}
+
+------Way--------
+
+Nr. 359 of egypt_substations
+Id: 448831400
+Tags:
+{'barrier': 'wall',
+ 'fixme': 'name,operator',
+ 'power': 'substation',
+ 'substation': 'transmission'}
+
+------Way--------
+
+Nr. 360 of egypt_substations
+Id: 502403973
+Tags:
+{'power': 'substation'}
+
+------Way--------
+
+Nr. 361 of egypt_substations
+Id: 128316479
+Tags:
+{'location': 'outdoor',
+ 'power': 'substation',
+ 'substation': 'distribution',
+ 'voltage': '66000'}
+
+------Way--------
+
+Nr. 362 of egypt_substations
+Id: 176709654
+Tags:
+{'power': 'substation'}
+
+------Way--------
+
+Nr. 363 of egypt_substations
+Id: 829929401
+Tags:
+{'barrier': 'wall',
+ 'power': 'substation'}
+
+------Way--------
+
+Nr. 364 of egypt_substations
+Id: 426156923
+Tags:
+{'power': 'substation'}
+
+------Way--------
+
+Nr. 365 of egypt_substations
+Id: 117328910
+Tags:
+{'location': 'outdoor',
+ 'power': 'substation',
+ 'substation': 'distribution'}
+
+------Way--------
+
+Nr. 366 of egypt_substations
+Id: 219754962
+Tags:
+{'location': 'outdoor',
+ 'power': 'substation',
+ 'substation': 'distribution',
+ 'voltage': '220000'}
+
+------Way--------
+
+Nr. 367 of egypt_substations
+Id: 499106594
+Tags:
+{'power': 'substation'}
+
+------Way--------
+
+Nr. 368 of egypt_substations
+Id: 500449328
+Tags:
+{'power': 'substation'}
+
+------Way--------
+
+Nr. 369 of egypt_substations
+Id: 501748203
+Tags:
+{'power': 'substation'}
+
+------Way--------
+
+Nr. 370 of egypt_substations
+Id: 426190109
+Tags:
+{'power': 'substation'}
+
+------Way--------
+
+Nr. 371 of egypt_substations
+Id: 500449332
+Tags:
+{'power': 'substation'}
+
+------Way--------
+
+Nr. 372 of egypt_substations
+Id: 819260815
+Tags:
+{'power': 'substation'}
+
+------Way--------
+
+Nr. 373 of egypt_substations
+Id: 426596399
+Tags:
+{'barrier': 'wall',
+ 'fixme': 'name,operator',
+ 'power': 'substation',
+ 'substation': 'transmission'}
+
+------Way--------
+
+Nr. 374 of egypt_substations
+Id: 122132699
+Tags:
+{'power': 'substation',
+ 'voltage': '220000;66000'}
+
+------Way--------
+
+Nr. 375 of egypt_substations
+Id: 499315875
+Tags:
+{'power': 'substation'}
+
+------Way--------
+
+Nr. 376 of egypt_substations
+Id: 502109013
+Tags:
+{'power': 'substation'}
+
+------Way--------
+
+Nr. 377 of egypt_substations
+Id: 124538293
+Tags:
+{'location': 'outdoor',
+ 'power': 'substation',
+ 'substation': 'distribution',
+ 'voltage': '66000'}
+
+------Way--------
+
+Nr. 378 of egypt_substations
+Id: 123095203
+Tags:
+{'location': 'outdoor',
+ 'power': 'substation',
+ 'substation': 'distribution',
+ 'voltage': '66000'}
+
+------Way--------
+
+Nr. 379 of egypt_substations
+Id: 426825810
+Tags:
+{'power': 'substation'}
+
+------Way--------
+
+Nr. 380 of egypt_substations
+Id: 264541815
+Tags:
+{'name:en': 'Minya',
+ 'power': 'substation'}
+
+------Way--------
+
+Nr. 381 of egypt_substations
+Id: 500185501
+Tags:
+{'power': 'substation'}
+
+------Way--------
+
+Nr. 382 of egypt_substations
+Id: 90608610
+Tags:
+{'location': 'outdoor',
+ 'name:en': 'Sues',
+ 'power': 'substation',
+ 'substation': 'transmission',
+ 'voltage': '500000;220000'}
+
+------Way--------
+
+Nr. 383 of egypt_substations
+Id: 130060625
+Tags:
+{'location': 'outdoor',
+ 'power': 'substation',
+ 'substation': 'distribution',
+ 'voltage': '66000'}
+
+------Way--------
+
+Nr. 384 of egypt_substations
+Id: 426825798
+Tags:
+{'power': 'substation'}
+
+------Way--------
+
+Nr. 385 of egypt_substations
+Id: 501748194
+Tags:
+{'power': 'substation'}
+
+------Way--------
+
+Nr. 386 of egypt_substations
+Id: 426825792
+Tags:
+{'fixme': 'name,operator',
+ 'power': 'substation',
+ 'substation': 'distribution'}
+
+------Way--------
+
+Nr. 387 of egypt_substations
+Id: 127391757
+Tags:
+{'location': 'outdoor',
+ 'power': 'substation',
+ 'substation': 'distribution',
+ 'voltage': '66000'}
+
+------Way--------
+
+Nr. 388 of egypt_substations
+Id: 218938235
+Tags:
+{'location': 'outdoor',
+ 'power': 'substation',
+ 'substation': 'distribution',
+ 'voltage': '66000'}
+
+------Way--------
+
+Nr. 389 of egypt_substations
+Id: 117351281
+Tags:
+{'location': 'outdoor',
+ 'power': 'substation',
+ 'substation': 'distribution',
+ 'voltage': '66000'}
+
+------Way--------
+
+Nr. 390 of egypt_substations
+Id: 427608569
+Tags:
+{'power': 'substation'}
+
+------Way--------
+
+Nr. 391 of egypt_substations
+Id: 807413252
+Tags:
+{'power': 'substation'}
+
+------Way--------
+
+Nr. 392 of egypt_substations
+Id: 502109030
+Tags:
+{'power': 'substation'}
+
+------Way--------
+
+Nr. 393 of egypt_substations
+Id: 498864695
+Tags:
+{'power': 'substation'}
+
+------Way--------
+
+Nr. 394 of egypt_substations
+Id: 123877185
+Tags:
+{'location': 'outdoor',
+ 'power': 'substation',
+ 'substation': 'distribution',
+ 'voltage': '66000'}
+
+------Way--------
+
+Nr. 395 of egypt_substations
+Id: 499315888
+Tags:
+{'power': 'substation'}
+
+------Way--------
+
+Nr. 396 of egypt_substations
+Id: 500449355
+Tags:
+{'power': 'substation'}
+
+------Way--------
+
+Nr. 397 of egypt_substations
+Id: 97684511
+Tags:
+{'disused': 'yes',
+ 'power': 'substation'}
+
+------Way--------
+
+Nr. 398 of egypt_substations
+Id: 499106596
+Tags:
+{'power': 'substation'}
+
+------Way--------
+
+Nr. 399 of egypt_substations
+Id: 426596400
+Tags:
+{'power': 'substation'}
+
+------Way--------
+
+Nr. 400 of egypt_substations
+Id: 140648440
+Tags:
+{'location': 'outdoor',
+ 'power': 'substation',
+ 'substation': 'distribution'}
+
+------Way--------
+
+Nr. 401 of egypt_substations
+Id: 102988968
+Tags:
+{'location': 'indoor',
+ 'power': 'substation',
+ 'voltage': '220000'}
+
+------Way--------
+
+Nr. 402 of egypt_substations
+Id: 501748200
+Tags:
+{'power': 'substation'}
+
+------Way--------
+
+Nr. 403 of egypt_substations
+Id: 501748226
+Tags:
+{'power': 'substation'}
+
+------Way--------
+
+Nr. 404 of egypt_substations
+Id: 99772131
+Tags:
+{'location': 'outdoor',
+ 'name:en': 'Hurghada',
+ 'power': 'substation',
+ 'substation': 'transmission',
+ 'voltage': '220000;66000'}
+
+------Way--------
+
+Nr. 405 of egypt_substations
+Id: 276511906
+Tags:
+{'barrier': 'wall',
+ 'location': 'outdoor',
+ 'name:en': 'Sharm El Sheikh',
+ 'power': 'substation',
+ 'substation': 'transmission',
+ 'voltage': '220000;66000'}
+
+------Way--------
+
+Nr. 406 of egypt_substations
+Id: 130440397
+Tags:
+{'location': 'outdoor',
+ 'name:en': 'Asna',
+ 'power': 'substation',
+ 'substation': 'transmission',
+ 'voltage': '132000'}
+
+------Way--------
+
+Nr. 407 of egypt_substations
+Id: 426185756
+Tags:
+{'power': 'substation'}
+
+------Way--------
+
+Nr. 408 of egypt_substations
+Id: 129960721
+Tags:
+{'location': 'outdoor',
+ 'power': 'substation',
+ 'substation': 'distribution',
+ 'voltage': '66000'}
+
+------Way--------
+
+Nr. 409 of egypt_substations
+Id: 819224424
+Tags:
+{'power': 'substation'}
+
+------Way--------
+
+Nr. 410 of egypt_substations
+Id: 105694639
+Tags:
+{'location': 'outdoor',
+ 'power': 'substation',
+ 'substation': 'transmission',
+ 'voltage': '220000'}
+
+------Way--------
+
+Nr. 411 of egypt_substations
+Id: 94566888
+Tags:
+{'location': 'outdoor',
+ 'name:en': 'City of Sixt October',
+ 'power': 'substation',
+ 'proposed': 'power=substation;substation=transmission;voltage=500000',
+ 'substation': 'transmission',
+ 'voltage': '220000;66000'}
+
+------Way--------
+
+Nr. 412 of egypt_substations
+Id: 219295621
+Tags:
+{'location': 'outdoor',
+ 'name:en': 'Shalaten',
+ 'power': 'substation',
+ 'substation': 'transmission',
+ 'voltage': '220000'}
+
+------Way--------
+
+Nr. 413 of egypt_substations
+Id: 105207388
+Tags:
+{'location': 'indoor',
+ 'power': 'substation',
+ 'substation': 'distribution',
+ 'voltage': '66000'}
+
+------Way--------
+
+Nr. 414 of egypt_substations
+Id: 501748198
+Tags:
+{'power': 'substation'}
+
+------Way--------
+
+Nr. 415 of egypt_substations
+Id: 502404007
+Tags:
+{'power': 'substation'}
+
+------Way--------
+
+Nr. 416 of egypt_substations
+Id: 216224349
+Tags:
+{'barrier': 'wall',
+ 'name': 'Zafarana 7',
+ 'power': 'substation'}
+
+------Way--------
+
+Nr. 417 of egypt_substations
+Id: 123096142
+Tags:
+{'power': 'substation',
+ 'voltage': '66000'}
+
+------Way--------
+
+Nr. 418 of egypt_substations
+Id: 426156910
+Tags:
+{'power': 'substation'}
+
+------Way--------
+
+Nr. 419 of egypt_substations
+Id: 426825793
+Tags:
+{'power': 'substation'}
+
+------Way--------
+
+Nr. 420 of egypt_substations
+Id: 129447230
+Tags:
+{'location': 'outdoor',
+ 'power': 'substation',
+ 'substation': 'distribution',
+ 'voltage': '66000'}
+
+------Way--------
+
+Nr. 421 of egypt_substations
+Id: 419686239
+Tags:
+{'power': 'substation'}
+
+------Way--------
+
+Nr. 422 of egypt_substations
+Id: 807008180
+Tags:
+{'frequency': '50',
+ 'power': 'substation',
+ 'voltage': '500000'}
+
+------Way--------
+
+Nr. 423 of egypt_substations
+Id: 127253883
+Tags:
+{'location': 'outdoor',
+ 'power': 'substation',
+ 'substation': 'distribution',
+ 'voltage': '66000'}
+
+------Way--------
+
+Nr. 424 of egypt_substations
+Id: 500185478
+Tags:
+{'power': 'substation'}
+
+------Way--------
+
+Nr. 425 of egypt_substations
+Id: 343046188
+Tags:
+{'location': 'outdoor',
+ 'power': 'substation',
+ 'substation': 'distribution',
+ 'voltage': '66000'}
+
+------Way--------
+
+Nr. 426 of egypt_substations
+Id: 499061165
+Tags:
+{'power': 'substation'}
+
+------Way--------
+
+Nr. 427 of egypt_substations
+Id: 117501054
+Tags:
+{'power': 'substation'}
+
+------Way--------
+
+Nr. 428 of egypt_substations
+Id: 502358780
+Tags:
+{'power': 'substation'}
+
+------Way--------
+
+Nr. 429 of egypt_substations
+Id: 689752451
+Tags:
+{'power': 'substation'}
+
+------Way--------
+
+Nr. 430 of egypt_substations
+Id: 219298513
+Tags:
+{'location': 'outdoor',
+ 'power': 'substation',
+ 'substation': 'distribution',
+ 'voltage': '66000'}
+
+------Way--------
+
+Nr. 431 of egypt_substations
+Id: 216093003
+Tags:
+{'barrier': 'wall',
+ 'location': 'outdoor',
+ 'power': 'substation',
+ 'substation': 'distribution',
+ 'voltage': '220000'}
+
+------Way--------
+
+Nr. 432 of egypt_substations
+Id: 923817883
+Tags:
+{'power': 'substation',
+ 'voltage': '500000;220000'}
+
+------Way--------
+
+Nr. 433 of egypt_substations
+Id: 500185484
+Tags:
+{'power': 'substation'}
+
+------Way--------
+
+Nr. 434 of egypt_substations
+Id: 97702932
+Tags:
+{'location': 'outdoor',
+ 'power': 'substation',
+ 'substation': 'transmission',
+ 'voltage': '220000'}
+
+------Way--------
+
+Nr. 435 of egypt_substations
+Id: 128123911
+Tags:
+{'location': 'outdoor',
+ 'power': 'substation',
+ 'substation': 'transmission',
+ 'voltage': '220000'}
+
+------Way--------
+
+Nr. 436 of egypt_substations
+Id: 426156927
+Tags:
+{'power': 'substation'}
+
+------Way--------
+
+Nr. 437 of egypt_substations
+Id: 500185480
+Tags:
+{'power': 'substation'}
+
+------Way--------
+
+Nr. 438 of egypt_substations
+Id: 213203948
+Tags:
+{'location': 'outdoor',
+ 'name:en': 'Qena',
+ 'power': 'substation',
+ 'substation': 'transmission',
+ 'voltage': '220000;132000;66000'}
+
+------Way--------
+
+Nr. 439 of egypt_substations
+Id: 426596409
+Tags:
+{'location': 'outdoor',
+ 'name:en': 'Girga',
+ 'power': 'substation',
+ 'substation': 'transmission',
+ 'voltage': '220000'}
+
+------Way--------
+
+Nr. 440 of egypt_substations
+Id: 501748193
+Tags:
+{'location': 'indoor',
+ 'power': 'substation',
+ 'substation': 'transmission',
+ 'voltage': '500000;220000;66000'}
+
+------Way--------
+
+Nr. 441 of egypt_substations
+Id: 426596394
+Tags:
+{'power': 'substation'}
+
+------Way--------
+
+Nr. 442 of egypt_substations
+Id: 426596392
+Tags:
+{'power': 'substation'}
+
+------Way--------
+
+Nr. 443 of egypt_substations
+Id: 500449335
+Tags:
+{'power': 'substation'}
+
+------Way--------
+
+Nr. 444 of egypt_substations
+Id: 130225707
+Tags:
+{'barrier': 'wall',
+ 'location': 'outdoor',
+ 'power': 'substation',
+ 'substation': 'distribution',
+ 'voltage': '66000'}
+
+------Way--------
+
+Nr. 445 of egypt_substations
+Id: 426347969
+Tags:
+{'name:en': 'Assuit Steam PS',
+ 'power': 'substation'}
+
+------Way--------
+
+Nr. 446 of egypt_substations
+Id: 97439838
+Tags:
+{'power': 'substation',
+ 'substation': 'transmission',
+ 'voltage': '220000'}
+
+------Way--------
+
+Nr. 447 of egypt_substations
+Id: 501748234
+Tags:
+{'power': 'substation'}
+
+------Way--------
+
+Nr. 448 of egypt_substations
+Id: 502404016
+Tags:
+{'power': 'substation'}
+
+------Way--------
+
+Nr. 449 of egypt_substations
+Id: 263290997
+Tags:
+{'location': 'outdoor',
+ 'name:en': 'Toshka 2',
+ 'power': 'substation',
+ 'substation': 'transmission',
+ 'voltage': '220000;66000'}
+
+------Way--------
+
+Nr. 450 of egypt_substations
+Id: 502404021
+Tags:
+{'power': 'substation'}
+
+------Way--------
+
+Nr. 451 of egypt_substations
+Id: 641996072
+Tags:
+{'power': 'substation'}
+
+------Way--------
+
+Nr. 452 of egypt_substations
+Id: 426185752
+Tags:
+{'power': 'substation'}
+
+------Way--------
+
+Nr. 453 of egypt_substations
+Id: 501748204
+Tags:
+{'power': 'substation'}
+
+------Way--------
+
+Nr. 454 of egypt_substations
+Id: 122161819
+Tags:
+{'power': 'substation'}
+
+------Way--------
+
+Nr. 455 of egypt_substations
+Id: 689599704
+Tags:
+{'location': 'outdoor',
+ 'power': 'substation',
+ 'substation': 'transmission',
+ 'voltage': '500000'}
+
+------Way--------
+
+Nr. 456 of egypt_substations
+Id: 426825785
+Tags:
+{'power': 'substation'}
+
+------Way--------
+
+Nr. 457 of egypt_substations
+Id: 499315874
+Tags:
+{'power': 'substation'}
+
+------Way--------
+
+Nr. 458 of egypt_substations
+Id: 115491527
+Tags:
+{'barrier': 'fence',
+ 'location': 'outdoor',
+ 'name:en': 'Nag Hammadi',
+ 'power': 'substation',
+ 'substation': 'transmission',
+ 'voltage': '500000;220000;132000'}
+
+------Way--------
+
+Nr. 459 of egypt_substations
+Id: 499315878
+Tags:
+{'power': 'substation'}
+
+------Way--------
+
+Nr. 460 of egypt_substations
+Id: 426825781
+Tags:
+{'power': 'substation'}
+
+------Way--------
+
+Nr. 461 of egypt_substations
+Id: 499322357
+Tags:
+{'power': 'substation'}
+
+------Way--------
+
+Nr. 462 of egypt_substations
+Id: 502109025
+Tags:
+{'power': 'substation'}
+
+------Way--------
+
+Nr. 463 of egypt_substations
+Id: 502404003
+Tags:
+{'power': 'substation'}
+
+------Way--------
+
+Nr. 464 of egypt_substations
+Id: 499890426
+Tags:
+{'power': 'substation'}
+
+------Way--------
+
+Nr. 465 of egypt_substations
+Id: 122232408
+Tags:
+{'location': 'outdoor',
+ 'power': 'substation',
+ 'substation': 'distribution',
+ 'voltage': '66000'}
+
+------Way--------
+
+Nr. 466 of egypt_substations
+Id: 501748208
+Tags:
+{'power': 'substation'}
+
+------Way--------
+
+Nr. 467 of egypt_substations
+Id: 502404018
+Tags:
+{'power': 'substation'}
+
+------Way--------
+
+Nr. 468 of egypt_substations
+Id: 265751903
+Tags:
+{'power': 'substation'}
+
+------Way--------
+
+Nr. 469 of egypt_substations
+Id: 117393191
+Tags:
+{'location': 'outdoor',
+ 'name:en': 'Assuit 500',
+ 'power': 'substation',
+ 'substation': 'transmission',
+ 'voltage': '500000;220000;132000'}
+
+------Way--------
+
+Nr. 470 of egypt_substations
+Id: 499315889
+Tags:
+{'power': 'substation'}
+
+------Way--------
+
+Nr. 471 of egypt_substations
+Id: 502403974
+Tags:
+{'power': 'substation'}
+
+------Way--------
+
+Nr. 472 of egypt_substations
+Id: 426563847
+Tags:
+{'fixme': 'name,operator',
+ 'power': 'substation',
+ 'substation': 'distribution'}
+
+------Way--------
+
+Nr. 473 of egypt_substations
+Id: 343022341
+Tags:
+{'location': 'indoor',
+ 'power': 'substation',
+ 'substation': 'distribution'}
+
+------Way--------
+
+Nr. 474 of egypt_substations
+Id: 130435119
+Tags:
+{'location': 'outdoor',
+ 'name:en': 'Nakra 220',
+ 'power': 'substation',
+ 'substation': 'transmission',
+ 'voltage': '220000;66000'}
+
+------Way--------
+
+Nr. 475 of egypt_substations
+Id: 103010262
+Tags:
+{'location': 'outdoor',
+ 'power': 'substation',
+ 'substation': 'transition',
+ 'voltage': '66000'}
+
+------Way--------
+
+Nr. 476 of egypt_substations
+Id: 502404005
+Tags:
+{'power': 'substation'}
+
+------Way--------
+
+Nr. 477 of egypt_substations
+Id: 99788079
+Tags:
+{'barrier': 'fence',
+ 'location': 'outdoor',
+ 'name:en': 'Safaga',
+ 'power': 'substation',
+ 'substation': 'transmission',
+ 'voltage': '220000'}
+
+------Way--------
+
+Nr. 478 of egypt_substations
+Id: 264350094
+Tags:
+{'barrier': 'wall',
+ 'fixme': 'operator',
+ 'name:en': 'Balat',
+ 'power': 'substation',
+ 'substation': 'transmission',
+ 'voltage': '220000;66000'}
+
+------Way--------
+
+Nr. 479 of egypt_substations
+Id: 502403977
+Tags:
+{'power': 'substation'}
+
+------Way--------
+
+Nr. 480 of egypt_substations
+Id: 92924361
+Tags:
+{'location': 'outdoor',
+ 'power': 'substation',
+ 'substation': 'distribution',
+ 'voltage': '66000'}
+
+------Way--------
+
+Nr. 481 of egypt_substations
+Id: 426347968
+Tags:
+{'power': 'substation'}
+
+------Way--------
+
+Nr. 482 of egypt_substations
+Id: 427596550
+Tags:
+{'name': 'El-Zayt wind farm',
+ 'power': 'substation'}
+
+------Way--------
+
+Nr. 483 of egypt_substations
+Id: 502403980
+Tags:
+{'power': 'substation'}
+
+------Way--------
+
+Nr. 484 of egypt_substations
+Id: 127212986
+Tags:
+{'location': 'outdoor',
+ 'power': 'substation',
+ 'substation': 'distribution',
+ 'voltage': '66000'}
+
+------Way--------
+
+Nr. 485 of egypt_substations
+Id: 131239138
+Tags:
+{'location': 'outdoor',
+ 'power': 'substation',
+ 'substation': 'transmission',
+ 'voltage': '220000'}
+
+------Way--------
+
+Nr. 486 of egypt_substations
+Id: 426825782
+Tags:
+{'power': 'substation'}
+
+------Way--------
+
+Nr. 487 of egypt_substations
+Id: 103035899
+Tags:
+{'location': 'outdoor',
+ 'power': 'substation',
+ 'substation': 'distribution',
+ 'voltage': '66000'}
+
+------Way--------
+
+Nr. 488 of egypt_substations
+Id: 115498840
+Tags:
+{'barrier': 'fence',
+ 'fixme': 'name,operator',
+ 'power': 'substation',
+ 'substation': 'transmission'}
+
+------Way--------
+
+Nr. 489 of egypt_substations
+Id: 500185503
+Tags:
+{'power': 'substation'}
+
+------Way--------
+
+Nr. 490 of egypt_substations
+Id: 499315891
+Tags:
+{'power': 'substation'}
+
+------Way--------
+
+Nr. 491 of egypt_substations
+Id: 660242847
+Tags:
+{'power': 'substation'}
+
+------Way--------
+
+Nr. 492 of egypt_substations
+Id: 113021159
+Tags:
+{'fixme': 'name,operator',
+ 'location': 'outdoor',
+ 'power': 'substation',
+ 'substation': 'distribution',
+ 'voltage': '66000'}
+
+------Way--------
+
+Nr. 493 of egypt_substations
+Id: 502403981
+Tags:
+{'power': 'substation'}
+
+------Way--------
+
+Nr. 494 of egypt_substations
+Id: 498864697
+Tags:
+{'power': 'substation'}
+
+------Way--------
+
+Nr. 495 of egypt_substations
+Id: 426347954
+Tags:
+{'power': 'substation'}
+
+------Way--------
+
+Nr. 496 of egypt_substations
+Id: 219032903
+Tags:
+{'location': 'outdoor',
+ 'power': 'substation',
+ 'substation': 'transmission',
+ 'voltage': '220000'}
+
+------Way--------
+
+Nr. 497 of egypt_substations
+Id: 502109020
+Tags:
+{'power': 'substation'}
+
+------Way--------
+
+Nr. 498 of egypt_substations
+Id: 129957896
+Tags:
+{'location': 'outdoor',
+ 'power': 'substation',
+ 'substation': 'distribution',
+ 'voltage': '66000'}
+
+------Way--------
+
+Nr. 499 of egypt_substations
+Id: 500449377
+Tags:
+{'power': 'substation'}
+
+------Way--------
+
+Nr. 500 of egypt_substations
+Id: 218923288
+Tags:
+{'location': 'outdoor',
+ 'power': 'substation',
+ 'substation': 'distribution',
+ 'voltage': '66000'}
+
+------Way--------
+
+Nr. 501 of egypt_substations
+Id: 498864718
+Tags:
+{'name': 'New Capital Combined '
+         'Cycle Power Plant',
+ 'power': 'substation'}
+
+------Way--------
+
+Nr. 502 of egypt_substations
+Id: 499890415
+Tags:
+{'power': 'substation'}
+
+------Way--------
+
+Nr. 503 of egypt_substations
+Id: 500208167
+Tags:
+{'power': 'substation'}
+
+------Way--------
+
+Nr. 504 of egypt_substations
+Id: 426347972
+Tags:
+{'power': 'substation'}
+
+------Way--------
+
+Nr. 505 of egypt_substations
+Id: 218980895
+Tags:
+{'location': 'outdoor',
+ 'power': 'substation',
+ 'substation': 'transmission',
+ 'voltage': '220000'}
+
+------Way--------
+
+Nr. 506 of egypt_substations
+Id: 102974349
+Tags:
+{'location': 'outdoor',
+ 'power': 'substation',
+ 'substation': 'distribution',
+ 'voltage': '66000'}
+
+------Way--------
+
+Nr. 507 of egypt_substations
+Id: 523760456
+Tags:
+{'power': 'substation'}
+
+------Way--------
+
+Nr. 508 of egypt_substations
+Id: 120521277
+Tags:
+{'location': 'outdoor',
+ 'power': 'substation',
+ 'substation': 'transition'}
+
+------Way--------
+
+Nr. 509 of egypt_substations
+Id: 219005247
+Tags:
+{'location': 'outdoor',
+ 'power': 'substation',
+ 'substation': 'transmission',
+ 'voltage': '220000'}
+
+------Way--------
+
+Nr. 510 of egypt_substations
+Id: 130572646
+Tags:
+{'power': 'substation',
+ 'voltage': '220000'}
+
+------Way--------
+
+Nr. 511 of egypt_substations
+Id: 122159738
+Tags:
+{'location': 'outdoor',
+ 'power': 'substation',
+ 'substation': 'distribution',
+ 'voltage': '66000'}
+
+------Way--------
+
+Nr. 512 of egypt_substations
+Id: 130440404
+Tags:
+{'location': 'outdoor',
+ 'name:en': 'Asna',
+ 'power': 'substation',
+ 'substation': 'transmission',
+ 'voltage': '132000'}
+
+------Way--------
+
+Nr. 513 of egypt_substations
+Id: 498864692
+Tags:
+{'power': 'substation'}
+
+------Way--------
+
+Nr. 514 of egypt_substations
+Id: 690414939
+Tags:
+{'power': 'substation'}
+
+------Way--------
+
+Nr. 515 of egypt_substations
+Id: 162668161
+Tags:
+{'barrier': 'fence',
+ 'location': 'indoor',
+ 'power': 'substation',
+ 'substation': 'distribution',
+ 'voltage': '66000'}
+
+------Way--------
+
+Nr. 516 of egypt_substations
+Id: 426110748
+Tags:
+{'power': 'substation'}
+
+------Way--------
+
+Nr. 517 of egypt_substations
+Id: 127196176
+Tags:
+{'location': 'outdoor',
+ 'power': 'substation',
+ 'substation': 'distribution',
+ 'voltage': '66000'}
+
+------Way--------
+
+Nr. 518 of egypt_substations
+Id: 103032707
+Tags:
+{'power': 'substation',
+ 'substation': 'distribution',
+ 'voltage': '66000'}
+
+------Way--------
+
+Nr. 519 of egypt_substations
+Id: 660726589
+Tags:
+{'building': 'yes',
+ 'power': 'substation',
+ 'voltage': '220000'}
+
+------Way--------
+
+Nr. 520 of egypt_substations
+Id: 524099275
+Tags:
+{'location': 'outdoor',
+ 'power': 'substation',
+ 'substation': 'transmission',
+ 'voltage': '500000;220000'}
+
+------Way--------
+
+Nr. 521 of egypt_substations
+Id: 264644577
+Tags:
+{'location': 'outdoor',
+ 'power': 'substation',
+ 'substation': 'distribution',
+ 'voltage': '66000'}
+
+------Way--------
+
+Nr. 522 of egypt_substations
+Id: 501748210
+Tags:
+{'power': 'substation'}
+
+------Way--------
+
+Nr. 523 of egypt_substations
+Id: 739814903
+Tags:
+{'power': 'substation',
+ 'voltage': '220000'}
+
+------Way--------
+
+Nr. 524 of egypt_substations
+Id: 499315848
+Tags:
+{'power': 'substation'}
+
+------Way--------
+
+Nr. 525 of egypt_substations
+Id: 499106593
+Tags:
+{'power': 'substation'}
+
+------Way--------
+
+Nr. 526 of egypt_substations
+Id: 127224255
+Tags:
+{'power': 'substation'}
+
+------Way--------
+
+Nr. 527 of egypt_substations
+Id: 500449389
+Tags:
+{'power': 'substation'}
+
+------Way--------
+
+Nr. 528 of egypt_substations
+Id: 103998472
+Tags:
+{'location': 'outdoor',
+ 'name': 'Saloum',
+ 'power': 'substation',
+ 'source': 'Bing',
+ 'substation': 'transmission',
+ 'voltage': '220000'}
+
+------Way--------
+
+Nr. 529 of egypt_substations
+Id: 123462723
+Tags:
+{'power': 'substation',
+ 'substation': 'distribution',
+ 'voltage': '66000'}
+
+------Way--------
+
+Nr. 530 of egypt_substations
+Id: 264540951
+Tags:
+{'power': 'substation'}
+
+------Way--------
+
+Nr. 531 of egypt_substations
+Id: 502404002
+Tags:
+{'power': 'substation'}
+
+------Way--------
+
+Nr. 532 of egypt_substations
+Id: 501748223
+Tags:
+{'power': 'substation'}
+
+------Way--------
+
+Nr. 533 of egypt_substations
+Id: 105702260
+Tags:
+{'location': 'indoor',
+ 'power': 'substation',
+ 'substation': 'distribution',
+ 'voltage': '66000'}
+
+------Way--------
+
+Nr. 534 of egypt_substations
+Id: 500449350
+Tags:
+{'barrier': 'wall',
+ 'power': 'substation'}
+
+------Way--------
+
+Nr. 535 of egypt_substations
+Id: 426998277
+Tags:
+{'fixme': 'name,operator',
+ 'power': 'substation',
+ 'substation': 'transmission',
+ 'voltage': '66000'}
+
+------Way--------
+
+Nr. 536 of egypt_substations
+Id: 315372459
+Tags:
+{'location': 'outdoor',
+ 'power': 'substation',
+ 'substation': 'industrial',
+ 'voltage': '66000'}
+
+------Way--------
+
+Nr. 537 of egypt_substations
+Id: 524099297
+Tags:
+{'power': 'substation',
+ 'voltage': '500000'}
+
+------Way--------
+
+Nr. 538 of egypt_substations
+Id: 127243911
+Tags:
+{'location': 'outdoor',
+ 'power': 'substation',
+ 'substation': 'transmission',
+ 'voltage': '220000;66000'}
+
+------Way--------
+
+Nr. 539 of egypt_substations
+Id: 98663458
+Tags:
+{'location': 'outdoor',
+ 'power': 'substation',
+ 'substation': 'transmission',
+ 'voltage': '220000;66000'}
+
+------Way--------
+
+Nr. 540 of egypt_substations
+Id: 130782509
+Tags:
+{'location': 'outdoor',
+ 'power': 'substation',
+ 'substation': 'transmission',
+ 'voltage': '220000'}
+
+------Way--------
+
+Nr. 541 of egypt_substations
+Id: 219687979
+Tags:
+{'location': 'outdoor',
+ 'power': 'substation',
+ 'substation': 'transition',
+ 'voltage': '66000'}
+
+------Way--------
+
+Nr. 542 of egypt_substations
+Id: 501748211
+Tags:
+{'power': 'substation'}
+
+------Way--------
+
+Nr. 543 of egypt_substations
+Id: 901384779
+Tags:
+{'power': 'substation'}
+
+------Way--------
+
+Nr. 544 of egypt_substations
+Id: 427959725
+Tags:
+{'power': 'substation'}
+
+------Way--------
+
+Nr. 545 of egypt_substations
+Id: 103015033
+Tags:
+{'location': 'outdoor',
+ 'power': 'substation',
+ 'substation': 'transmission',
+ 'voltage': '220000;66000'}
+
+------Way--------
+
+Nr. 546 of egypt_substations
+Id: 93699965
+Tags:
+{'barrier': 'wall',
+ 'location': 'outdoor',
+ 'power': 'substation',
+ 'substation': 'transmission',
+ 'voltage': '220000;66000'}
+
+------Way--------
+
+Nr. 547 of egypt_substations
+Id: 426825791
+Tags:
+{'power': 'substation'}
+
+------Way--------
+
+Nr. 548 of egypt_substations
+Id: 426974572
+Tags:
+{'power': 'substation'}
+
+------Way--------
+
+Nr. 549 of egypt_substations
+Id: 561980005
+Tags:
+{'power': 'substation'}
+
+------Way--------
+
+Nr. 550 of egypt_substations
+Id: 645211057
+Tags:
+{'building': 'yes',
+ 'power': 'substation',
+ 'substation': 'distribution',
+ 'voltage': '66000'}
+
+------Way--------
+
+Nr. 551 of egypt_substations
+Id: 501748195
+Tags:
+{'power': 'substation'}
+
+------Way--------
+
+Nr. 552 of egypt_substations
+Id: 501748229
+Tags:
+{'power': 'substation'}
+
+------Way--------
+
+Nr. 553 of egypt_substations
+Id: 498864693
+Tags:
+{'power': 'substation'}
+
+------Way--------
+
+Nr. 554 of egypt_substations
+Id: 500449330
+Tags:
+{'power': 'substation'}
+
+------Way--------
+
+Nr. 555 of egypt_substations
+Id: 502109018
+Tags:
+{'power': 'substation'}
+
+------Way--------
+
+Nr. 556 of egypt_substations
+Id: 426190108
+Tags:
+{'power': 'substation'}
+
+------Way--------
+
+Nr. 557 of egypt_substations
+Id: 426825820
+Tags:
+{'power': 'substation'}
+
+------Way--------
+
+Nr. 558 of egypt_substations
+Id: 426596396
+Tags:
+{'power': 'substation'}
+
+------Way--------
+
+Nr. 559 of egypt_substations
+Id: 216214039
+Tags:
+{'barrier': 'wall',
+ 'name:en': 'Ras Sidr',
+ 'power': 'substation',
+ 'substation': 'distribution',
+ 'voltage': '220000'}
+
+------Way--------
+
+Nr. 560 of egypt_substations
+Id: 216240845
+Tags:
+{'barrier': 'wall',
+ 'fixme': 'name,operator',
+ 'power': 'substation',
+ 'substation': 'distribution',
+ 'voltage': '66000'}
+
+------Way--------
+
+Nr. 561 of egypt_substations
+Id: 426156926
+Tags:
+{'power': 'substation'}
+
+------Way--------
+
+Nr. 562 of egypt_substations
+Id: 502403982
+Tags:
+{'power': 'substation'}
+
+------Way--------
+
+Nr. 563 of egypt_substations
+Id: 130116890
+Tags:
+{'power': 'substation',
+ 'voltage': '66000'}
+
+------Way--------
+
+Nr. 564 of egypt_substations
+Id: 426596389
+Tags:
+{'barrier': 'wall',
+ 'location': 'outdoor',
+ 'power': 'substation',
+ 'substation': 'transition',
+ 'voltage': '66000'}
+
+------Way--------
+
+Nr. 565 of egypt_substations
+Id: 120516782
+Tags:
+{'power': 'substation',
+ 'voltage': '220000'}
+
+------Way--------
+
+Nr. 566 of egypt_substations
+Id: 162922605
+Tags:
+{'building': 'yes',
+ 'location': 'indoor',
+ 'power': 'substation',
+ 'substation': 'distribution',
+ 'voltage': '66000'}
+
+------Way--------
+
+Nr. 567 of egypt_substations
+Id: 502109029
+Tags:
+{'power': 'substation'}
+
+------Way--------
+
+Nr. 568 of egypt_substations
+Id: 610833665
+Tags:
+{'location': 'indoor',
+ 'power': 'substation',
+ 'substation': 'transmission',
+ 'voltage': '500000'}
+
+------Way--------
+
+Nr. 569 of egypt_substations
+Id: 219020314
+Tags:
+{'location': 'outdoor',
+ 'power': 'substation',
+ 'substation': 'transmission',
+ 'voltage': '500000'}
+
+------Way--------
+
+Nr. 570 of egypt_substations
+Id: 126405689
+Tags:
+{'location': 'indoor',
+ 'power': 'substation',
+ 'substation': 'distribution',
+ 'voltage': '66000'}
+
+------Way--------
+
+Nr. 571 of egypt_substations
+Id: 216510377
+Tags:
+{'barrier': 'wall',
+ 'location': 'indoor',
+ 'power': 'substation',
+ 'substation': 'distribution',
+ 'voltage': '66000'}
+
+------Way--------
+
+Nr. 572 of egypt_substations
+Id: 500449383
+Tags:
+{'building': 'yes',
+ 'power': 'substation'}
+
+------Way--------
+
+Nr. 573 of egypt_substations
+Id: 219583071
+Tags:
+{'location': 'outdoor',
+ 'name:en': 'Selwa West',
+ 'power': 'substation',
+ 'substation': 'transmission',
+ 'voltage': '220000;66000'}
+
+------Way--------
+
+Nr. 574 of egypt_substations
+Id: 499897446
+Tags:
+{'power': 'substation'}
+
+------Way--------
+
+Nr. 575 of egypt_substations
+Id: 118713888
+Tags:
+{'fixme': 'name,operator',
+ 'location': 'outdoor',
+ 'power': 'substation',
+ 'substation': 'transmission',
+ 'voltage': '66000'}
+
+------Way--------
+
+Nr. 576 of egypt_substations
+Id: 426974567
+Tags:
+{'barrier': 'wall',
+ 'fixme': 'name,operator',
+ 'power': 'substation',
+ 'substation': 'transmission'}
+
+------Way--------
+
+Nr. 577 of egypt_substations
+Id: 426156916
+Tags:
+{'power': 'substation'}
+
+------Way--------
+
+Nr. 578 of egypt_substations
+Id: 501748209
+Tags:
+{'power': 'substation'}
+
+------Way--------
+
+Nr. 579 of egypt_substations
+Id: 129444702
+Tags:
+{'location': 'outdoor',
+ 'power': 'substation',
+ 'substation': 'distribution',
+ 'voltage': '66000'}
+
+------Way--------
+
+Nr. 580 of egypt_substations
+Id: 499890420
+Tags:
+{'power': 'substation'}
+
+------Way--------
+
+Nr. 581 of egypt_substations
+Id: 213203947
+Tags:
+{'location': 'outdoor',
+ 'name:en': 'Qena South',
+ 'power': 'substation',
+ 'substation': 'transmission',
+ 'voltage': '132000;66000'}
+
+------Way--------
+
+Nr. 582 of egypt_substations
+Id: 660726590
+Tags:
+{'building': 'yes',
+ 'power': 'substation',
+ 'voltage': '220000'}
+
+------Way--------
+
+Nr. 583 of egypt_substations
+Id: 500449418
+Tags:
+{'location': 'outdoor',
+ 'name:en': 'Bustan substation',
+ 'power': 'substation',
+ 'substation': 'transmission',
+ 'voltage': '220000'}
+
+------Relation--------
+
+Nr. 1 of egypt_substations
+Id: 4218931
+Tags:
+{'building': 'yes',
+ 'power': 'substation',
+ 'type': 'multipolygon'}
