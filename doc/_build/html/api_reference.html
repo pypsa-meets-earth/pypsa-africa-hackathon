@@ -13,6 +13,8 @@
   
   <link rel="stylesheet" href="_static/css/theme.css" type="text/css" />
   <link rel="stylesheet" href="_static/pygments.css" type="text/css" />
+  <link rel="stylesheet" href="_static/pygments.css" type="text/css" />
+  <link rel="stylesheet" href="_static/css/theme.css" type="text/css" />
 
   
   
@@ -29,6 +31,7 @@
   
     
       <script type="text/javascript" id="documentation_options" data-url_root="./" src="_static/documentation_options.js"></script>
+        <script data-url_root="./" id="documentation_options" src="_static/documentation_options.js"></script>
         <script src="_static/jquery.js"></script>
         <script src="_static/underscore.js"></script>
         <script src="_static/doctools.js"></script>
@@ -38,7 +41,7 @@
     
     <link rel="index" title="Index" href="genindex.html" />
     <link rel="search" title="Search" href="search.html" />
-    <link rel="prev" title="Welcome to PyPSA meets Africa’s documentation!" href="index.html" /> 
+    <link rel="prev" title="Installation" href="installation.html" /> 
 </head>
 
 <body class="wy-body-for-nav">
@@ -83,10 +86,14 @@
               
             
             
-              <p class="caption"><span class="caption-text">API</span></p>
+              <p class="caption"><span class="caption-text">Getting Started</span></p>
+<ul>
+<li class="toctree-l1"><a class="reference internal" href="installation.html">Installation</a></li>
+</ul>
+<p class="caption"><span class="caption-text">API</span></p>
 <ul class="current">
 <li class="toctree-l1 current"><a class="current reference internal" href="#">API Reference</a><ul>
-<li class="toctree-l2"><a class="reference internal" href="#network">Network</a></li>
+<li class="toctree-l2"><a class="reference internal" href="#module-data_exploration.osm_pbf_power_data_extractor">Data exploration</a></li>
 </ul>
 </li>
 </ul>
@@ -158,8 +165,26 @@
             
   <div class="section" id="api-reference">
 <span id="api"></span><h1>API Reference<a class="headerlink" href="#api-reference" title="Permalink to this headline">¶</a></h1>
-<div class="section" id="network">
-<h2>Network<a class="headerlink" href="#network" title="Permalink to this headline">¶</a></h2>
+<div class="section" id="module-data_exploration.osm_pbf_power_data_extractor">
+<span id="data-exploration"></span><h2>Data exploration<a class="headerlink" href="#module-data_exploration.osm_pbf_power_data_extractor" title="Permalink to this headline">¶</a></h2>
+<p>OSM extraction scrpt</p>
+<dl class="py function">
+<dt class="sig sig-object py" id="data_exploration.osm_pbf_power_data_extractor.download_pbf">
+<span class="sig-prename descclassname"><span class="pre">data_exploration.osm_pbf_power_data_extractor.</span></span><span class="sig-name descname"><span class="pre">download_pbf</span></span><span class="sig-paren">(</span><em class="sig-param"><span class="n"><span class="pre">country_code</span></span></em>, <em class="sig-param"><span class="n"><span class="pre">update</span></span></em><span class="sig-paren">)</span><a class="headerlink" href="#data_exploration.osm_pbf_power_data_extractor.download_pbf" title="Permalink to this definition">¶</a></dt>
+<dd><p>TEST ONLY. FROM PYPSA.
+Initializes variables for power dispatch for a given component and a
+given attribute.</p>
+<dl class="field-list simple">
+<dt class="field-odd">Parameters</dt>
+<dd class="field-odd"><ul class="simple">
+<li><p><strong>n</strong> (<em>pypsa.Network</em>) – </p></li>
+<li><p><strong>c</strong> (<a class="reference external" href="https://docs.python.org/3/library/stdtypes.html#str" title="(in Python v3.9)"><em>str</em></a>) – name of the network component</p></li>
+<li><p><strong>attr</strong> (<a class="reference external" href="https://docs.python.org/3/library/stdtypes.html#str" title="(in Python v3.9)"><em>str</em></a>) – name of the attribute, e.g. ‘p’</p></li>
+</ul>
+</dd>
+</dl>
+</dd></dl>
+
 </div>
 </div>
 
@@ -169,7 +194,7 @@
           </div>
           <footer>
     <div class="rst-footer-buttons" role="navigation" aria-label="footer navigation">
-        <a href="index.html" class="btn btn-neutral float-left" title="Welcome to PyPSA meets Africa’s documentation!" accesskey="p" rel="prev"><span class="fa fa-arrow-circle-left" aria-hidden="true"></span> Previous</a>
+        <a href="installation.html" class="btn btn-neutral float-left" title="Installation" accesskey="p" rel="prev"><span class="fa fa-arrow-circle-left" aria-hidden="true"></span> Previous</a>
     </div>
 
   <hr/>

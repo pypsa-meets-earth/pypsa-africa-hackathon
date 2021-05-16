@@ -13,6 +13,8 @@
   
   <link rel="stylesheet" href="_static/css/theme.css" type="text/css" />
   <link rel="stylesheet" href="_static/pygments.css" type="text/css" />
+  <link rel="stylesheet" href="_static/pygments.css" type="text/css" />
+  <link rel="stylesheet" href="_static/css/theme.css" type="text/css" />
 
   
   
@@ -29,6 +31,7 @@
   
     
       <script type="text/javascript" id="documentation_options" data-url_root="./" src="_static/documentation_options.js"></script>
+        <script data-url_root="./" id="documentation_options" src="_static/documentation_options.js"></script>
         <script src="_static/jquery.js"></script>
         <script src="_static/underscore.js"></script>
         <script src="_static/doctools.js"></script>
@@ -37,7 +40,9 @@
 
     
     <link rel="index" title="Index" href="genindex.html" />
-    <link rel="search" title="Search" href="search.html" /> 
+    <link rel="search" title="Search" href="search.html" />
+    <link rel="next" title="API Reference" href="api_reference.html" />
+    <link rel="prev" title="Welcome to PyPSA meets Africa’s documentation!" href="index.html" /> 
 </head>
 
 <body class="wy-body-for-nav">
@@ -82,7 +87,15 @@
               
             
             
-              <p class="caption"><span class="caption-text">API</span></p>
+              <p class="caption"><span class="caption-text">Getting Started</span></p>
+<ul class="current">
+<li class="toctree-l1 current"><a class="current reference internal" href="#">Installation</a><ul>
+<li class="toctree-l2"><a class="reference internal" href="#clone-the-repository">Clone the Repository</a></li>
+<li class="toctree-l2"><a class="reference internal" href="#install-python-dependencies">Install Python Dependencies</a></li>
+</ul>
+</li>
+</ul>
+<p class="caption"><span class="caption-text">API</span></p>
 <ul>
 <li class="toctree-l1"><a class="reference internal" href="api_reference.html">API Reference</a></li>
 </ul>
@@ -163,7 +176,7 @@ The path to the directory into which the <code class="docutils literal notransla
 If you do not have <code class="docutils literal notranslate"><span class="pre">git</span></code> installed, follow installation instructions <a class="reference external" href="https://git-scm.com/book/en/v2/Getting-Started-Installing-Git">here</a>.</p>
 <div class="highlight-bash notranslate"><div class="highlight"><pre><span></span>/some/other/path % <span class="nb">cd</span> /some/path/without/spaces
 
-/some/path/without/spaces % git clone https://github.com/PyPSA/pypsa-eur.git
+/some/path/without/spaces % git clone https://github.com/pz-max/pypsa-meets-africa
 </pre></div>
 </div>
 </div>
@@ -173,7 +186,7 @@ If you do not have <code class="docutils literal notranslate"><span class="pre">
 We recommend using the package manager and environment management system <code class="docutils literal notranslate"><span class="pre">conda</span></code> to install them.
 Install <a class="reference external" href="https://docs.conda.io/en/latest/miniconda.html">miniconda</a>, which is a mini version of <a class="reference external" href="https://www.anaconda.com/">Anaconda</a> that includes only <code class="docutils literal notranslate"><span class="pre">conda</span></code> and its dependencies or make sure <code class="docutils literal notranslate"><span class="pre">conda</span></code> is already installed on your system.
 For instructions for your operating system follow the <code class="docutils literal notranslate"><span class="pre">conda</span></code> <a class="reference external" href="https://docs.conda.io/projects/conda/en/latest/user-guide/install/">installation guide</a>.</p>
-<p>The python package requirements are curated in the <a href="#id2"><span class="problematic" id="id3">`</span></a>envs/environment.yaml file.
+<p>The python package requirements are curated in the envs/environment.yaml file.
 The environment can be installed and activated using</p>
 <div class="highlight-bash notranslate"><div class="highlight"><pre><span></span>.../pypsa-eur % conda env create -f envs/environment.yaml
 
@@ -188,6 +201,10 @@ The environment can be installed and activated using</p>
            
           </div>
           <footer>
+    <div class="rst-footer-buttons" role="navigation" aria-label="footer navigation">
+        <a href="api_reference.html" class="btn btn-neutral float-right" title="API Reference" accesskey="n" rel="next">Next <span class="fa fa-arrow-circle-right" aria-hidden="true"></span></a>
+        <a href="index.html" class="btn btn-neutral float-left" title="Welcome to PyPSA meets Africa’s documentation!" accesskey="p" rel="prev"><span class="fa fa-arrow-circle-left" aria-hidden="true"></span> Previous</a>
+    </div>
 
   <hr/>
 
