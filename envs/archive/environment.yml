@@ -10,11 +10,10 @@ dependencies:
   - attrs=20.3.0=pyhd3deb0d_0
   - backcall=0.2.0=pyhd3eb1b0_0
   - boost-cpp=1.74.0=hc6e9bd1_2
-  - branca=0.4.2=pyhd8ed1ab_0
   - brotlipy=0.7.0=py37h5e8e339_1001
   - bzip2=1.0.8=h7f98852_4
   - c-ares=1.17.1=h7f98852_1
-  - ca-certificates=2021.4.13=h06a4308_1
+  - ca-certificates=2020.12.5=ha878542_0
   - cairo=1.16.0=h7979940_1007
   - cartopy=0.18.0=py37h26456f9_13
   - certifi=2020.12.5=py37h89c1867_1
@@ -34,7 +33,6 @@ dependencies:
   - descartes=1.1.0=py_4
   - expat=2.2.10=h9c3ff4c_0
   - fiona=1.8.18=py37h527b4ca_0
-  - folium=0.12.0=pyhd8ed1ab_1
   - fontconfig=2.13.1=hba837de_1004
   - freetype=2.10.4=h0708190_1
   - freexl=1.0.6=h7f98852_0
@@ -109,7 +107,7 @@ dependencies:
   - numpy=1.20.1=py37haa41c4c_0
   - olefile=0.46=pyh9f0ad1d_1
   - openjpeg=2.4.0=hf7af979_0
-  - openssl=1.1.1k=h7f98852_0
+  - openssl=1.1.1j=h7f98852_0
   - pandas=1.2.3=py37hdc94413_0
   - parso=0.8.1=pyhd3eb1b0_0
   - patsy=0.5.1=py_0
