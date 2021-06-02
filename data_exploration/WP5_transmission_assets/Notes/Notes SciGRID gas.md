@@ -1,4 +1,4 @@
-## SciGRID gas
+# SciGRID gas
 
 What does it provide:
 
@@ -7,8 +7,7 @@ What does it provide:
 - A segmentation routine for pipelines which will remove some intermediate nodes and create short `PipeSegments`
 - An option to remove short pipelines
 
-
-#### Processing.py
+## Processing.py
 
 def Segments2Lines(Netz):
     Segments=Netz.__dict__['PipeSegments']
@@ -16,7 +15,6 @@ def Segments2Lines(Netz):
         if len(Segment.lat)!=len(Segment.node_id):
            startid=Segment.node_id[0]
            endid=Segment.node_id[1]
-           
            new_node_id=[]
            new_node_id.append(startid)
            for i in range(len(Segment.lat)-2):
@@ -40,8 +38,7 @@ def rename_nodes(Netz,prestring='LKD_'):
             newnodelist=[]
             for node in element.node_id:
                 newnodelist.append(prestring+node)
-            element.node_id=newnodelist
-            
+            element.node_id=newnodelist           
     complist=Netz.CompLabelsSpot()+['Nodes',]
     for component in complist:
         for element in Netz.__dict__[component]:

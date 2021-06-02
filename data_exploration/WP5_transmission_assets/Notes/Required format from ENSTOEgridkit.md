@@ -46,7 +46,7 @@ Example code for reading the files:
     with io.open('buses.csv', 'rb') as handle:
         buses = list(csv.DictReader(handle, dialect))
 
-### buses.csv:
+### buses.csv
 
 Describes terminals, vertices, or 'nodes' of the system
 
@@ -67,7 +67,7 @@ Describes terminals, vertices, or 'nodes' of the system
 apparantly connected. Such synthetic stations can be recognised
 because their symbol is always `joint`.
 
-### lines.csv:
+### lines.csv
 
 Buses are connected by AC-lines:
 
@@ -86,7 +86,7 @@ Buses are connected by AC-lines:
 + `tags`: _hstore_ encoded dictionary of extra properties for this link
 + `geometry`: extent of this line in well-known-text format (WGS84)
 
-### links.csv:
+### links.csv
 
 Connections between buses:
 
