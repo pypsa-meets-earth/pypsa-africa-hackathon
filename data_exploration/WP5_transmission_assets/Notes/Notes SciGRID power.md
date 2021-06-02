@@ -1,6 +1,6 @@
 # SciGRID power
 
-
+<!-- 
     def create_tables(self):
     # Create tables necessary for the abstraction process. 
         create_tables(self.cur, self.conn)
@@ -21,7 +21,7 @@
           """
     
     def analyze_relations(self):
-	# Analyze the power relations. 
+    # Analyze the power relations. 
         msg = analyze_rels(self.cur, self.conn)
         return msg
     
@@ -64,4 +64,4 @@
     def add_electrical_properties(self):
 	# Calculate the electrical properties of the transmission lines using the dena assumptions. 
         nr_success = ep.add_dena_assumptions(self.cur, self.conn)
-        return nr_success
+        return nr_success -->

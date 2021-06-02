@@ -3,7 +3,7 @@
 What does it provide:
 
 - A routine to create SciGRID_gas data from OSM pbf-files
-- A routine to extract meta data from OSM tags 
+- A routine to extract meta data from OSM tags
 - A segmentation routine for pipelines which will remove some intermediate nodes and create short `PipeSegments`
 - An option to remove short pipelines
 
@@ -38,12 +38,11 @@ def rename_nodes(Netz,prestring='LKD_'):
             newnodelist=[]
             for node in element.node_id:
                 newnodelist.append(prestring+node)
-            element.node_id=newnodelist           
+            element.node_id=newnodelist
     complist=Netz.CompLabelsSpot()+['Nodes',]
     for component in complist:
         for element in Netz.__dict__[component]:
             element.id=(prestring+element.id)
-            
     pass
 
 
