@@ -1,8 +1,8 @@
-## SciGRID power
+# SciGRID power
 
 
     def create_tables(self):
-	# Create tables necessary for the abstraction process. 
+    # Create tables necessary for the abstraction process. 
         create_tables(self.cur, self.conn)
         i.e def ct__vertices(cur,conn):
           # Create _vertices table."""
