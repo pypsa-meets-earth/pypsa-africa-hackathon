@@ -90,6 +90,7 @@ Developments which can
 - WP3. Add marine energy to Atlite
 - WP4. Validate and extend Atlite capabilities
 - WP5. Develop a heuristic to investigate if new east-west or north-west interconnectors within Africa are viable
+- WP5. Features that help decision-making on the viability of **'off-grid/mini-grid vs on-grid'**
 - WP6. Improve and extend AI satellite image recognition methods
 - WP6. Add overall more data and validate datasets
 
@@ -104,10 +105,11 @@ Example case studies
 Below we list some studies that could be performed after our developments:
 
 - **Long-term capacity expansion planning.** Explore long-term capacity expansion with different renewable energy deployments and different network constraints e.g. business-as-usual, least-cost, RE sub-optimally deployed in other areas/zones to assist just transition
-- **Interconnectivity study.** Analysis on improved interconnectivity between African nations or improved interconnectivity between pool.
+- **Interconnectivity study.** Analysis on improved interconnectivity between African nations or improved interconnectivity between pools.
 - **Energy storage study.** Value of short-duration vs long-duration storage in any country that is most appropriate. Could be interesting in any country where high variable renewable energy penetration may already be or is becoming part of the future energy mix.
 - **Hydrogen economy.** Potentials of establishing a hydrogen economy in a future energy system. 
-- **Energy access.** The impact on changing demand in Africa. Connecting islanded grids to the energy system - a cost and benefit analysis. 
+- **Energy access.** The impact on changing demand in Africa. Connecting islanded grids to the energy system - a cost and benefit analysis.
+- **On-grid vs off-grid study.** Sometimes it could make sense to keep networks isolated or in mini-grid solutions. But when is this the case? Our tool can help to identify regions that are worth keeping isolated. 
 - ...
 
 After linking PyPSA-Africa with PyPSA-Eur/PyPSA-Eur-Sec:
