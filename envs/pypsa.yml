@@ -1,0 +1,16 @@
+name: pypsa
+channels:
+  - defaults
+dependencies:
+  - python=3.7
+  - ipykernel
+  - geoplot
+  - geopandas
+  - autopep8
+  - nbconvert
+  - hvplot
+  - geoviews
+  - pip:
+    - esy-osm-pbf
+    - esy-osmfilter
+ 
