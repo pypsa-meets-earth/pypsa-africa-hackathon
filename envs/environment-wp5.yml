@@ -1,4 +1,4 @@
-name: pypsa
+name: wp5
 channels:
   - defaults
 dependencies:
