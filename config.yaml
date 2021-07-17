@@ -1,0 +1,52 @@
+# SPDX-FileCopyrightText: : 2021 The PyPSA-Africa Authors
+#
+# SPDX-License-Identifier: CC0-1.0
+
+version: 0.3.0
+
+
+logging:
+  level: INFO
+  format: '%(levelname)s:%(name)s:%(message)s'
+
+summary_dir: results
+
+
+
+
+enable:
+  prepare_links_p_nom: false
+  retrieve_databundle: true
+  build_cutout: false
+  retrieve_cutout: true
+  build_natura_raster: false
+  retrieve_natura_raster: true
+  custom_busmap: false
+  
+electricity:
+  voltages: [220., 300., 380.]
+  co2limit: 7.75e+7 # 0.05 * 3.1e9*0.5
+  co2base: 1.487e9
+  agg_p_nom_limits: data/agg_p_nom_minmax.csv
+
+lines:
+  types:
+    220.: "Al/St 240/40 2-bundle 220.0"
+    300.: "Al/St 240/40 3-bundle 300.0"
+    380.: "Al/St 240/40 4-bundle 380.0"
+  s_max_pu: 0.7
+  s_nom_max: .inf
+  length_factor: 1.25
+  under_construction: 'zero' # 'zero': set capacity to zero, 'remove': remove, 'keep': with full capacity
+
+links:
+  p_max_pu: 1.0
+  p_nom_max: .inf
+  include_tyndp: true
+  under_construction: 'zero' # 'zero': set capacity to zero, 'remove': remove, 'keep': with full capacity
+
+transformers:
+  x: 0.1
+  s_nom: 2000.
+  type: ''
+
