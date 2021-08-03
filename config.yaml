@@ -8,6 +8,9 @@ logging:
   level: INFO
   format: "%(levelname)s:%(name)s:%(message)s"
 
+countries:
+  - AF
+
 summary_dir: results
 
 snapshots:
