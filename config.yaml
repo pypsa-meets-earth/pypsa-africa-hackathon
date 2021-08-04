@@ -9,9 +9,9 @@ logging:
   format: "%(levelname)s:%(name)s:%(message)s"
 
 countries:
-  - MA
+  #- MA
   - NE
-  - NG
+  #- NG
 
 summary_dir: results
 
