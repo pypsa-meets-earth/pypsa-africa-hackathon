@@ -16,13 +16,15 @@ snapshots:
   closed: "left" # end is not inclusive
 
 enable:
-  prepare_links_p_nom: false
-  retrieve_databundle: true
-  build_cutout: false
-  retrieve_cutout: true
-  build_natura_raster: false
-  retrieve_natura_raster: true
-  custom_busmap: false
+  # prepare_links_p_nom: false
+  # retrieve_databundle: true
+  # If "build_cutout" true requires cds API key https://cds.climate.copernicus.eu/api-how-to
+  # More informationhttps://atlite.readthedocs.io/en/latest/introduction.html#datasets
+  build_cutout: true
+  # retrieve_cutout: true
+  # build_natura_raster: false
+  # retrieve_natura_raster: true
+  # custom_busmap: false
 
 electricity:
   voltages: [220., 300., 380.]
@@ -67,6 +69,11 @@ atlite:
     # use 'base' to determine geographical bounds and time span from config
     # base:
     # module: era5
+    africa-2013-era5:
+      module: era5
+      dx: 0.3
+      dy: 0.3
+      time: ["2013", "2013"]
     europe-2013-era5:
       module: era5 # in priority order
       x: [-12., 35.]
