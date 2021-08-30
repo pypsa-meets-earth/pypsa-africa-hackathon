@@ -46,6 +46,8 @@ dependencies:
   - cartopy
   - descartes
   - rasterio
+  - geoviews
+  - hvplot
 
   # PyPSA-Eur-Sec Dependencies
   - geopy
