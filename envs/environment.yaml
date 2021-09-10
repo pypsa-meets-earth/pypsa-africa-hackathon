@@ -2,8 +2,9 @@
 #
 # SPDX-License-Identifier: GPL-3.0-or-later
 
-name: toast
+name: pypsa-africa
 channels:
+  - conda-forge/label/shapely_dev  # Until shapely 1.8+ is out of alpha
   - conda-forge
   - bioconda
   - http://conda.anaconda.org/gurobi
