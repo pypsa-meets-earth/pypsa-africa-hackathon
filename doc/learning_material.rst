@@ -72,5 +72,5 @@ Code environment (optional)
 
 We can recommend setting up VScode from Microsoft. Add some extension if you like as described in `this video <https://www.youtube.com/watch?v=0fROnrISdZU>`_. For instance GitHub, Gitlense, and maybe some others.
 
-
+*Note*: if you decide to use Visual Studio Code, check out the tutorial about how to use `Git <https://code.visualstudio.com/docs/editor/versioncontrol#_git-support>`_ and `Github <https://code.visualstudio.com/docs/editor/github>`_  in Visual Studio Code
 
