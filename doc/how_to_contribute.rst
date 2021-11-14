@@ -3,10 +3,10 @@
 
   SPDX-License-Identifier: CC-BY-4.0
 
-.. _contributing:
+.. _how_to_contribute:
 
 ##########################################
-Contributing
+How to contribute
 ##########################################
 
 Contributions are welcome, and they are greatly appreciated! 
