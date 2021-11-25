@@ -3,6 +3,7 @@
 # SPDX-License-Identifier: CC0-1.0
 
 version: 0.3.0
+tutorial: True
 
 logging:
   level: INFO
@@ -11,7 +12,7 @@ logging:
 scenario:
   simpl: ['']
   ll: ['copt']
-  clusters: [5]
+  clusters: [6]
   opts: [Co2L-24H]
 
 countries: ["NG", "BJ"]
@@ -58,7 +59,7 @@ summary_dir: results
 
 snapshots:
   start: "2013-03-1"
-  end: "2013-03-8"
+  end: "2013-03-14"
   closed: "left" # end is not inclusive
 
 enable:
@@ -124,7 +125,7 @@ atlite:
       module: era5
       dx: 0.3
       dy: 0.3
-      time: ["2013-03-01", "2013-03-08"]
+      time: ["2013-03", "2013-03"]
     # europe-2013-era5:
     #   module: era5 # in priority order
     #   x: [-12., 35.]
@@ -253,7 +254,7 @@ solving:
     track_iterations: false
     #nhours: 10
   solver:
-    name: cbc
+    name: glpk
 
 
 plotting:
