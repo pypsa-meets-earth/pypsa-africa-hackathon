@@ -312,7 +312,13 @@ def mock_snakemake(rulename, **wildcards):
     workflow = sm.Workflow(snakefile)
     workflow.include(snakefile)
     workflow.global_resources = {}
-    rule = workflow.get_rule(rulename)
+    try:
+        rule = workflow.get_rule(rulename)
+    except Exception as exception:
+        print(exception, 
+        f"The {rulename} might be a conditional rule in the Snakefile.\n"
+        f"Did you enable {rulename} in the config?")
+        raise
     dag = sm.dag.DAG(workflow, rules=[rule])
     wc = Dict(wildcards)
     job = sm.jobs.Job(rule, dag, wc)
